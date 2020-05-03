@@ -166,7 +166,7 @@ Tesseract.recognize(
 
 
 ### Result: 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/27.jpg?raw=true)
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/27.png?raw=true)
 
 
 
