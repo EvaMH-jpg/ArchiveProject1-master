@@ -11,7 +11,7 @@
    
    ii- [Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
   
-  * iii-OHCHR-Timeline 
+   iii-[Timeline](#Timeline) 
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
@@ -90,7 +90,7 @@ Another very interesting source from the Archive is the "Report on the first Nat
 
 
 
-## 3. Timeline regarding important Human-Rights-happenings around the world
+## <a name="TIMELINE"></a> 3.Timeline regarding important Human-Rights-happenings around the world
 
 I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html). I researched for the different events in history and marked the important ones within this document: 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/20.jpg?raw=true)
