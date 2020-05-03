@@ -37,6 +37,8 @@ I am dealing with the research question: "How to archive humans rights/ children
 
 Therefore I gathered different contents and sources regarding this topic. 
 
-# 1. Molo Songololo - 1st issue molo songololo: MARCH 1980
+## 1. Molo Songololo - 1st issue molo songololo: MARCH 1980
 
-The Magazine 
+#### History: 
+
+As already mentioned above the magzine started its origin in 1980 in South Africa. It was established as a direct result of interventions by community workers during the 1979 United Nation’s International Year of the Child initiative to act against Apartheid policies and State actions against children; and to promote the rights and protection of children. Children from forced removal and migration settlements in Cape Town such as District Six, Elsies River and Crossroads were brought together to interact with each other, share experiences and learn from each other to breakdown Apartheid barriers and promote children's rights and equality. 
