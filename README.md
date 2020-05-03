@@ -8,8 +8,14 @@
 2. [RESEARCH](#RESEARCH)
    
    i- [Molo Songololo](#Molo-Songololo)
+   
    ii- [Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
+   
   iii-[Timeline](#Timeline) 
+  
+  3. [TRANSCODING](#Transcoding)
+  
+   i- [Image to text](#Image-to-text)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
@@ -108,5 +114,4 @@ These documents are also part of my research. As I already meantioned I used a v
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg?raw=true)
 
-
-
+# <a name="Transcoding"></a> 3. TRANSCODING
