@@ -162,6 +162,8 @@ Tesseract.recognize(
  </body>  
 </html>
 
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/25.jpg?raw=true)
+
 
 ### Result: 
 
