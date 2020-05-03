@@ -38,7 +38,7 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world and in different time periods. Therefore I gathered different contents and sources regarding this topic–leading to experiments with this content.
 
 
-## <a name="Molo-Songololo"></a> Molo Songololo
+## <a name="Molo-Songololo"></a> 1. Molo Songololo
 
 
 #### History: 
@@ -70,8 +70,7 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg?raw=true)
 
-
-## 2. Report of the first National Conference on children's rights: 
+## <a name="Report-of-the-first-National-Conference-on-children's-rights"></a> 2. Report of the first National Conference on children's rights: 
 
 Another very interesting source from the Archive is the "Report on the first National Conference on children's rights" and the corresponding Discussion Papers-"Children Have Rights". 
 
