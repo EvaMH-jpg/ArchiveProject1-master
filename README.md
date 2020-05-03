@@ -2,14 +2,16 @@
  
 ## Table of Contents
 
-1. [ARTEFACT](#artefact)
+1. [ARTEFACT](#ARTEFACT)
    * [Metadata](#metadata)
    
 1. [RESEARCH](#RESEARCH)
    
-  * i- [Molo-Songololo](#Molo Songololo)
+  * i- [Molo Songololo](#Molo Songololo)
    
   * ii-[Report of the first National Conference on children's rights](#2.Report of the first National Conference on children's rights)
+  
+  * iii-OHCHR-Timeline 
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
@@ -77,6 +79,23 @@ Another very interesting source from the Archive is the Report on the first Nati
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/13.jpg?raw=true)
 
-## 3. Timeline regarding important human rights happenings around the world
+## 3. Timeline regarding important Human-Rights-happenings around the world
 
-[OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html)
+I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html). I researched for the different events in history and marked the important ones within this document: 
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/20.jpg?raw=true)
+
+### Collection of more important documents 
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/14.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg?raw=true)
+
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/16.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/17.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/18.png?raw=true)
+
+
+
