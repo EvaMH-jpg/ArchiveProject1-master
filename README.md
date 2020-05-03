@@ -33,10 +33,10 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 
 # <a name="RESEARCH"></a> 1. RESEARCH - "How to archive humans rights/ children's rights in an everchanging globalized world?"
 
-In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world and in different time periods. Therefore I gathered different contents and sources regarding this topic–leading to experiments with this content.  
+In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world and in different time periods. Therefore I gathered different contents and sources regarding this topic–leading to experiments with this content.
 
-## 1. Molo Songololo 
 
+## <a name="1. Molo Songololo "></a> 1. Molo Songololo
 #### History: 
 As already mentioned above the magzine started its origin in 1980 in South Africa. It was established as a direct result of interventions by community workers during the 1979 United Nation’s International Year of the Child initiative to act against Apartheid policies and State actions against children; and to promote the rights and protection of children. Children from forced removal and migration settlements in Cape Town such as District Six, Elsies River and Crossroads were brought together to interact with each other, share experiences and learn from each other to breakdown Apartheid barriers and promote children's rights and equality. 
 
