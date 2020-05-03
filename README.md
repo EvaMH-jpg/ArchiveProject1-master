@@ -2,13 +2,11 @@
  
 ## Table of Contents
 
-1. [ARTEFACT] (#ARTEFACT)
+1. [Artefact](#artefact)
 
    * i- Metadata
    
 1. [RESEARCH] (#RESEARCH)
-
-
 
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
