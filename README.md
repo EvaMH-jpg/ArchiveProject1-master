@@ -29,4 +29,6 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 
 
 
-#RESEARCH
+# RESEARCH
+
+Molo Songololo - 1st issue molo songololo: MARCH 1980
