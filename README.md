@@ -62,4 +62,10 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 
 ### More examples of the magazine: 
 
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/7.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/8.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg?raw=true)
+
 
