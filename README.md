@@ -98,14 +98,14 @@ I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohch
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/14.jpg?raw=true)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg?raw=true)
-
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/16.jpg?raw=true)
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/17.jpg?raw=true)
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/18.png?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg?raw=true)
 
 
 
