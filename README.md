@@ -2,10 +2,10 @@
  
 ## Table of Contents
 
-1. [ARTIFACT] (#ARTIFACT)
-2. [RESEARCH] (#RESEARCH)
+1. [ARTEFACT] (#ARTEFACT)
+1. [RESEARCH] (#RESEARCH)
 
 
 
 
-# <a name="ARTIFACT"></a> 1. ARTIFACT
+# <a name="ARTEFACT"></a> 1. ARTEFACT
