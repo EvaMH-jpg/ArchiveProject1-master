@@ -115,3 +115,8 @@ These documents are also part of my research. As I already meantioned I used a v
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg?raw=true)
 
 # <a name="Transcoding"></a> 3. TRANSCODING
+
+My first intention with the transcodings was to have a better understanding on all the research I collected– saying this I first thought I will work with all the collected material about human rights. During the process of narrating the material and experimentation with it I realized that I will have to narrow it down in order to understand the different aspects of my original Artefact the "Molo Songololo" Magazine. With the specific tools and trascodings I chose I am creating a frame for my project and myself in which the idea of an interactive game based on the magazine can grow. The purpose of the game is to educate and include children within their own rights. The ultimate goal is for children and young adults to understand and engage with their rights, based on the different aspects of the game. 
+
+
+## <a name="Image-to-text"></a> Image to Text 
