@@ -3,13 +3,13 @@
 ## Table of Contents
 
 1. [ARTEFACT](#artefact)
-   * i- [Metadata](#metadata)
+   * [Metadata](#metadata)
    
 1. [RESEARCH](#RESEARCH)
    
-  * i- [1.Molo-Songololo](#1.Molo Songololo)
+  * i- [Molo-Songololo](#1.Molo Songololo)
    
-  * ii-[2.Report of the first National Conference on children's rights](#2.Report of the first National Conference on children's rights)
+  * ii-[Report of the first National Conference on children's rights](#2.Report of the first National Conference on children's rights)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
