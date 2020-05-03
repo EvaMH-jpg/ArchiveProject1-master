@@ -121,9 +121,51 @@ My first intention with the transcodings was to have a better understanding on a
 
 ## <a name="Image-to-text"></a> Transcoding Nr.1: OCR - Image to Text 
 
-Since I was dealing with a lot of scans as material from the archive, I had to find a way to transcode this and only have a text file left: I created an OCR tool which scans my image and transforms it 
+### Description:
+Since I was dealing with a lot of scans as material from the archive, I had to find a way to transcode this and only have a text file left.
+
+### Method:
+I checked different websites in order to find a way how to transcode this given scans, but they all did not work out too well. 
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/24.jpg?raw=true)
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/25.jpg?raw=true)
+
+
+
+
+
+### Tool: 
+I created an OCR tool which scans my image and transforms it to a usable text file. 
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <meta charset="UTF-8">
+ <title>image to text</title>
+ <script src='https://unpkg.com/tesseract.js@v2.1.0/dist/tesseract.min.js'></script>
+ </head>
+    
+<body>
+   
+<script>
+Tesseract.recognize(
+  'eva.jpg',
+   'eng',
+  { logger: m => console.log(m) }
+).then(({ data: { text } }) => {
+  console.log(text);
+})
+    
+  </script>
+ </body>  
+</html>
+
+
+### Result: 
+
+
+
+
 
