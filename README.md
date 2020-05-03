@@ -7,8 +7,9 @@
    
 1. [RESEARCH](#RESEARCH)
    
-   i- [Molo-Songololo](#Molo Songololo)
-   ii-[Report of the first National Conference on children's rights](#Report of the first National Conference on children's rights)
+  * i- [Molo-Songololo](#Molo Songololo)
+   
+  * ii-[Report of the first National Conference on children's rights](#Report of the first National Conference on children's rights)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
