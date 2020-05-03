@@ -3,7 +3,9 @@
 ## Table of Contents
 
 1. [ARTEFACT] (#ARTEFACT)
+
    * i- Metadata
+   
 1. [RESEARCH] (#RESEARCH)
 
 
@@ -29,7 +31,7 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 
 
 
-# RESEARCH - "How to archive humans rights/ children's rights in an everchanging globalized world?"
+# <a name="RESEARCH"></a> 1. RESEARCH - "How to archive humans rights/ children's rights in an everchanging globalized world?"
 
 In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world and in different time periods. Therefore I gathered different contents and sources regarding this topic–leading to experiments with this content.  
 
