@@ -22,6 +22,11 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 *physical description:* | Paper Magazine 
 *Type:* | Magazine
 *Medium:* | Education Tool
-*Materials:* Paper 
+*Materials:* | Paper 
 *location of origin:* | South Africa 
 *Date:* | 1980-2005
+
+
+
+
+#RESEARCH
