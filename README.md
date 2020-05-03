@@ -15,7 +15,7 @@
   
   3. [TRANSCODING](#Transcoding)
   
-   i- [Image to text](#Image-to-text)
+     i- [Image to text](#Image-to-text)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
