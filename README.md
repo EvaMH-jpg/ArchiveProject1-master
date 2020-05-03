@@ -29,13 +29,9 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 
 
 
-# RESEARCH
+# RESEARCH - "How to archive humans rights/ children's rights in an everchanging globalized world?"
 
-In my research I included more sources than only the Molo Songololo Magazine. 
-
-I am dealing with the research question: "How to archive humans rights/ children's rights in an everchanging globalized world?" 
-
-Therefore I gathered different contents and sources regarding this topic. 
+In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world and in different time periods. Therefore I gathered different contents and sources regarding this topic–leading to experiments with this content.  
 
 ## 1. Molo Songololo 
 
@@ -52,7 +48,7 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/3.jpg?raw=true)
 
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/4.jpg?raw=true) width="60%">1(#)
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/4.jpg?raw=true)
 
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg?raw=true)
@@ -75,3 +71,6 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/11.jpg?raw=true)
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/13.jpg?raw=true)
+
+
+[OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html)
