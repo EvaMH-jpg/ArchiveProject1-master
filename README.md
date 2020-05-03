@@ -72,4 +72,6 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 ## Report of the first National Conference on children's rights: 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/10.jpg?raw=true)
 
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/11.jpg?raw=true)
 
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/13.jpg?raw=true)
