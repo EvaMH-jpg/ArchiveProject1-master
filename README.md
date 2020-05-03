@@ -119,9 +119,9 @@ These documents are also part of my research. As I already meantioned I used a v
 My first intention with the transcodings was to have a better understanding on all the research I collected– saying this I first thought I will work with all the collected material about human rights. During the process of narrating the material and experimentation with it I realized that I will have to narrow it down in order to understand the different aspects of my original Artefact the "Molo Songololo" Magazine. With the specific tools and trascodings I chose I am creating a frame for my project and myself in which the idea of an interactive game based on the magazine can grow. The purpose of the game is to educate and include children within their own rights. The ultimate goal is for children and young adults to understand and engage with their rights, based on the different aspects of the game. 
 
 
-## <a name="Image-to-text"></a> OCR - Image to Text 
+## <a name="Image-to-text"></a> Transcoding Nr.1: OCR - Image to Text 
 
-Since I was dealing with a lot of scans as material from the archive, I had to find a way to transcode this and only have a text file left: 
+Since I was dealing with a lot of scans as material from the archive, I had to find a way to transcode this and only have a text file left: I created an OCR tool which scans my image and transforms it 
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/24.jpg?raw=true)
 
