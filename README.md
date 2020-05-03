@@ -162,10 +162,11 @@ Tesseract.recognize(
  </body>  
 </html>
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/25.jpg?raw=true)
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/26.jpg?raw=true)
 
 
 ### Result: 
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/27.jpg?raw=true)
 
 
 
