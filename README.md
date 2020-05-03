@@ -65,12 +65,16 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg?raw=true)
 
 
-## Report of the first National Conference on children's rights: 
+## 2. Report of the first National Conference on children's rights: 
+
+Another very interesting source from the Archive is the Report on the first National Conference on children's rights and the corresponding Discussion Papers. 
+
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/10.jpg?raw=true)
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/11.jpg?raw=true)
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/13.jpg?raw=true)
 
+## 3. Timeline regarding important human rights happenings around the world
 
 [OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html)
