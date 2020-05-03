@@ -38,7 +38,7 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world and in different time periods. Therefore I gathered different contents and sources regarding this topic–leading to experiments with this content.
 
 
-## <a name="Molo-Songololo "></a> Molo Songololo
+## <a name="Molo-Songololo"></a> Molo Songololo
 
 
 #### History: 
