@@ -31,4 +31,12 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 
 # RESEARCH
 
-Molo Songololo - 1st issue molo songololo: MARCH 1980
+In my research I included more sources than only the Molo Songololo Magazine. 
+
+I am dealing with the research question: "How to archive humans rights/ children's rights in an everchanging globalized world?" 
+
+Therefore I gathered different contents and sources regarding this topic. 
+
+# 1. Molo Songololo - 1st issue molo songololo: MARCH 1980
+
+The Magazine 
