@@ -12,10 +12,16 @@
    ii-[Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
    
    iii-[Timeline](#Timeline) 
+   
+   iiii-[Language as Material](#Language-as-material)
   
   3. [TRANSCODING](#Transcoding)
   
      i-[OCR - Image to text](#Image-to-text)
+     
+     ii-[Image to 3d](#Image-to-3d)
+     
+     iii [Digital-Mapping: Non linear timeline](#Digital-Mapping:Non-linear-timeline)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
@@ -114,6 +120,23 @@ These documents are also part of my research. As I already meantioned I used a v
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg?raw=true)
 
+
+## <a name="Language-as-Material"></a> 4. Language as Material
+
+[2](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos6014) [LANGUAGE AS MATERIAL](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos6105)
+
+Portions of “Language as Material” appeared in New Media Poetics (Cambridge: MIT, 2006) and was first written for the New Media Poetry Conference in October 2002 at the University of Iowa. Other parts of the chapter were given at Digital Poetics at SUNY Buffalo in 2000.
+
+There’s been a lot of talk the past few years about net neutrality, a concept that argues either for or against assigning different values to the various types of data that flow through our networks. Net neutrality advocates claim that all data on the network be treated as equal, whether it be a piece of spam or a Nobel laureate’s speech. Their advocacy reminds me of the post office, which charges by the pound, not by what’s inside the package: you can’t charge more to send a couture dress than you can for a book of poetry just because it’s more valuable.
+
+Uncreative writing mirrors the ethos of net neutral advocates, claiming that one way of treating language is materially, focusing on formal qualities as well as communicative ones, viewing it as a substance that moves and morphs through its various states and digital and textual ecosystems. Yet, like data, language works on several levels, endlessly flipping back and forth between the meaningful and the material: we can choose to weigh it *and* we can choose to read it. There’s nothing stable about it: even in their most abstracted form, letters are embedded with semantic, semiotic, historical, cultural, and associative meanings. Think of the letter *a*, and it’s anything but neutral. Associations for me include *The Scarlet Letter*, a top grade, the title of Louis Zukofsky’s life poem, Andy Warhol’s novel, and so forth. When nonobjectivist painters tried to rid painting of illusion and metaphor, you can see why they chose geometric forms, not letters, to do so.
+
+Right now I am writing transparently: how I’m using words is supposed to be invisible to you so that you can follow what I’m saying. If, instead, I WAS TO WRITE IN ALL CAPS, I move into the material or oblique. You’d first notice the way it looked, then—noting that CAPS generally connote SHOUTING—its tone, and last, its message. In day-to-day life we rarely notice the material properties of language except for when, say, we encounter a stutterer or a person with a heavy accent, we first notice *how* they say, second we decode *what* they are saying.[1](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos653822) When we listen to an opera sung in a language we don’t understand, we push language’s formal properties to the front—its cadences and rhythms—choosing sound over sense. If we further choose to invert the transparency of words, we can hear them as sound or see them as shapes. One of modernism’s great aspirations was to skew language in this way, but the backlash it produced was equally strong: emphasizing its materiality disrupts normative flows of communication. Human beings have enough trouble understanding each other, critics complained. Why would we purposely want to make it more difficult?
+
+In most literature, writers strive to strike a balance between these two states. A way to think of this is similar to the way the transparency slider bar in Photoshop functions: slide the bar far to the right and your image is 100 percent opaque; all the way to the left renders it barely visible, a ghost of its former self. In literature, if the slider is skewed toward complete transparency, language becomes functional discourse, the sort of language used to write a newspaper editorial or caption a photograph. Slide it back a little bit and it becomes prose: *Lo-lee-ta: the tip of the tongue taking a trip of three steps down the palate to tap, at three, on the teeth. Lo. Lee. Ta*. Nabokov’s opening hits a perfect note between sound and sense, signal and noise, poetry and narrative. After this dynamic opener, Nabokov moves the slider back toward sense, swapping it for a more transparent style in order to tell a story.
+
+Two movements in the middle of the twentieth century, concrete poetry and situationism, experimented with sliding the slider all the way up at 100 percent opacity. In uncreative writing, new meaning is created by repurposing preexisting texts. In order to work with text this way, words must first be rendered opaque and material. Both movements viewed materiality as primary goals, the situationists through *détournement* and the concretists by literally treating letters as building blocks. The situationists worked in a variety of mediums, realizing their vision of the city as canvas whereas the concretists took a more traditional tact, mostly publishing books. By envisioning the page as a screen, the concretists anticipated the way we would work with language in the digital world half a century later.
+
 # <a name="Transcoding"></a> 3. TRANSCODING
 
 My first intention with the transcodings was to have a better understanding on all the research I collected– saying this I first thought I will work with all the collected material about human rights. During the process of narrating the material and experimentation with it I realized that I will have to narrow it down in order to understand the different aspects of my original Artefact the "Molo Songololo" Magazine. With the specific tools and trascodings I chose I am creating a frame for my project and myself in which the idea of an interactive game based on the magazine can grow. The purpose of the game is to educate and include children within their own rights. The ultimate goal is for children and young adults to understand and engage with their rights, based on the different aspects of the game. 
@@ -169,6 +192,13 @@ Tesseract.recognize(
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/27.png?raw=true)
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/28.png?raw=true)
+
+
+## <a name="Image-to-3d"></a> Transcoding Nr.2: Image to 3D
+
+
+
+## <a name="Digital Mapping"></a> Transcoding Nr.3: Non linear Timeline
 
 
 
