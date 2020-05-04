@@ -21,7 +21,7 @@
      
      ii-[Image to 3d](#Image-to-3d)
      
-     iii [Digital-Mapping: Non linear timeline](#Digital-Mapping:Non-linear-timeline)
+     iii [Digital-Mapping: Non linear timeline](#Digital-Mapping)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
@@ -198,7 +198,7 @@ Tesseract.recognize(
 
 
 
-## <a name="Digital Mapping"></a> Transcoding Nr.3: Non linear Timeline
+## <a name="Digital-Mapping"></a> Transcoding Nr.3: Digital-Mapping: Non linear Timeline
 
 The idea was to create a non linear timeline in order to map out the events and happenings regarding human rights all over the world in different times and periods. Since my focus shifted towards the artefact and during my process I figured out that it is more important to focus on the different aspects of the magazine as material, I decided for my endresult to put the idea of the non linear timeline aside. I will continue working on this in a later stage of the process. 
 
