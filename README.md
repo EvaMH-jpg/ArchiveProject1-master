@@ -63,31 +63,30 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
  [<img src="images/6.jpg" width="50%">](#)
 
 ### More examples of the magazine: 
+[<img src="images/7.jpg" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/7.jpg?raw=true)
+[<img src="images/8.jpg" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/8.jpg?raw=true)
+[<img src="images/9.jpg" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg?raw=true)
 
 ## <a name="Report-of-the-first-National-Conference-on-children's-rights"></a> 2. Report of the first National Conference on children's rights: 
 
 Another very interesting source from the Archive is the "Report on the first National Conference on children's rights" and the corresponding Discussion Papers-"Children Have Rights". 
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/10.jpg?raw=true)
+[<img src="images/10.jpg" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/11.jpg?raw=true)
+[<img src="images/11.jpg" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/13.jpg?raw=true)
+[<img src="images/12.jpg" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/21.jpg?raw=true)
+[<img src="images/13.jpg" width="50%">](#)
 
+[<img src="images/21.jpg" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/22.jpg?raw=true)
+[<img src="images/22.jpg" width="50%">](#)
 
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/23.jpg?raw=true)
-
+[<img src="images/23.jpg" width="50%">](#)
 
 
 ## <a name="timeline"></a> 3.Timeline regarding important Human-Rights-happenings around the world
