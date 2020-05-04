@@ -179,11 +179,11 @@ The idea was to create a non linear timeline in order to map out the events and 
 [The Art of mapmaking](https://www.theguardian.com/travel/gallery/2015/sep/10/cool-cartography-the-art-of-mapmaking)
 
 
-[<img src="images/29.jpg" width="50%">](#)
-[<img src="images/30.jpg" width="50%">](#)
-[<img src="images/31.jpg" width="50%">](#)
-[<img src="images/32.jpg" width="50%">](#)
-[<img src="images/33.jpg" width="50%">](#)
+[<img src="images/29.jpg" width="100%">](#)
+[<img src="images/30.jpg" width="100%">](#)
+[<img src="images/31.jpg" width="100%">](#)
+[<img src="images/32.jpg" width="100%">](#)
+[<img src="images/33.jpg" width="100%">](#)
 
 Fine example of Arnold Colom's rare double hemisphere map of the World, which appeared in his *Zee-Atlas*.
 
@@ -194,8 +194,6 @@ The map provides a fine depiction of the World. California is shown as an island
 ### Method:
 
 #### First Sketches
-
-[<img src="images/33.jpg" width="50%">](#)
 [<img src="images/34.jpg" width="50%">](#)
 [<img src="images/35.jpg" width="50%">](#)
 
@@ -205,7 +203,7 @@ The map provides a fine depiction of the World. California is shown as an island
 
 I worked with Cinema 4D and Unity in order to create the first visual sketches for my non linear timeline. I wanted to create different islands which you can visit–on each island you find new information regarding human rights. I started to create the game in Unity with the first Island "Molo Songololo" which you can visit. Within the process I realized that the main focus, the Artefact, loses its importance and focus if I continue to work on the idea of the non-linear timeline.
 
-[<img src="images/37.jpg" width="50%">](#)
+[<img src="images/37.jpg" width="100%">](#)
 
 
 ### Result:
