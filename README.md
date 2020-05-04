@@ -11,13 +11,15 @@
    
    ii-[Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
    
-   iii-[Timeline](#Timeline) 
+   iii-[Timeline- Digtial Mapping](#Timeline-Digital-Mapping) 
    
    iiii-[Language as Material](#Language-as-material)
   
   3. [TRANSCODING](#Transcoding)
   
      i-[OCR - Image to text](#Image-to-text)
+     
+     ii-[Image to 3d](#Image-to-3d)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
