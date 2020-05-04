@@ -200,6 +200,7 @@ Tesseract.recognize(
 
 ## <a name="Digital-Mapping"></a> Transcoding Nr.3: Digital-Mapping: Non linear Timeline
 
+### Description:
 The idea was to create a non linear timeline in order to map out the events and happenings regarding human rights all over the world in different times and periods. Since my focus shifted towards the artefact and during my process I figured out that it is more important to focus on the different aspects of the magazine as material, I decided for my endresult to put the idea of the non linear timeline aside. I will continue working on this in a later stage of the process. 
 
 
@@ -219,10 +220,23 @@ Fine example of Arnold Colom's rare double hemisphere map of the World, which ap
 
 The map provides a fine depiction of the World. California is shown as an island, with a large landmass running due east and west to the north entitled Nova Albion, one of the only maps to provide this designation to this landmass (along with the map of his father Jacob Colom, published in 1650).
 
-### First sketches: 
+
+
+### Method:
+
+#### First Sketches
+
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/33.jpg?raw=true)
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/34.jpg?raw=true)
 
+
+
+
+### Tool: 
+
+I used Cinema 4D in order to create the first visual sketches for my non linear timeline. I wanted to create different islands which you can visit–on each island you find new information regarding human rights. 
+
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/35.jpg?raw=true)
+
 
