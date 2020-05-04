@@ -11,7 +11,7 @@
    
    ii-[Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
    
-   iii-[Timeline- Digtial Mapping](#Timeline-Digital-Mapping) 
+   iii-[Timeline](#Timeline) 
    
    iiii-[Language as Material](#Language-as-material)
   
@@ -20,6 +20,8 @@
      i-[OCR - Image to text](#Image-to-text)
      
      ii-[Image to 3d](#Image-to-3d)
+     
+     iii [Digital-Mapping: Non linear timeline](#Digital-Mapping:Non-linear-timeline)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
@@ -190,6 +192,13 @@ Tesseract.recognize(
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/27.png?raw=true)
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/28.png?raw=true)
+
+
+## <a name="Image-to-3d"></a> Transcoding Nr.2: Image to 3D
+
+
+
+## <a name="Digital Mapping"></a> Transcoding Nr.3: Non linear Timeline
 
 
 
