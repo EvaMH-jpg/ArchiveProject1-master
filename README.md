@@ -92,23 +92,23 @@ Another very interesting source from the Archive is the "Report on the first Nat
 ## <a name="timeline"></a> 3.Timeline regarding important Human-Rights-happenings around the world
 
 I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html). I researched for the different events in history and marked the important ones within this document: 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/20.jpg?raw=true)
+[<img src="images/20.jpg" width="100%">](#)
 
 ### Additional important documents
 
 These documents are also part of my research. As I already meantioned I used a variety of resources in order to map out different events. It was an important part of my research to include as many different inputs regarding a certain time period or event as possible in order to understand what happened, who was involved, where it happened and why. 
 
+[<img src="images/14.jpg" width="50%">](#)
+
+[<img src="images/16.jpg" width="50%">](#)
+
+[<img src="images/17.jpg" width="50%">](#)
+
+[<img src="images/18.png" width="50%">](#)
+
+[<img src="images/15.jpg" width="50%">](#)
+
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/14.jpg?raw=true)
-
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/16.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/17.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/18.png?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg?raw=true)
-
 
 ## <a name="Language-as-Material"></a> 4. Language as Material
 
@@ -137,14 +137,11 @@ My first intention with the transcodings was to have a better understanding on a
 Since I was dealing with a lot of scans as material from the archive, I had to find a way to transcode this and only have a text file left.
 
 ### Method:
-I checked different websites in order to find a way how to transcode this given scans, but they all did not work out too well. 
+I checked different websites in order to find a way how to transcode this given scans, but they all did not work out too well.
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/24.jpg?raw=true)
+[<img src="images/24.jpg" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/25.jpg?raw=true)
-
-
-
+[<img src="images/25.jpg" width="50%">](#)
 
 
 ### Tool: 
@@ -174,13 +171,13 @@ Tesseract.recognize(
  </body>  
 </html>
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/26.jpg?raw=true)
-
+[<img src="images/26.jpg" width="50%">](#)
 
 ### Result: 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/27.png?raw=true)
+[<img src="images/27.png" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/28.png?raw=true)
+[<img src="images/28.png" width="50%">](#)
+
 
 
 ## <a name="Image-to-3d"></a> Transcoding Nr.2: Image to 3D
