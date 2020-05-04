@@ -127,8 +127,8 @@ Since I was dealing with a lot of scans as material from the archive, I had to f
 ### Method:
 I checked different websites in order to find a way how to transcode this given scans, but they all did not work out too well.
 
-[<img src="images/24.jpg" width="50%">](#)
-[<img src="images/25.jpg" width="50%">](#)
+[<img src="images/24.jpg" width="100%">](#)
+[<img src="images/25.jpg" width="100%">](#)
 
 
 ### Tool: 
@@ -158,11 +158,11 @@ Tesseract.recognize(
  </body>  
 </html>
 
-[<img src="images/26.jpg" width="50%">](#)
+[<img src="images/26.jpg" width="30%">](#)
 
 ### Result: 
-[<img src="images/27.png" width="50%">](#)
-[<img src="images/28.png" width="50%">](#)
+[<img src="images/27.png" width="100%">](#)
+[<img src="images/28.png" width="100%">](#)
 
 
 
