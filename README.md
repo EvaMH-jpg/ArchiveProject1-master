@@ -2,26 +2,26 @@
  
 ## Table of Contents
 
-1. [ARTEFACT](#ARTEFACT)
+1. [ARTEFACT](#artefact)
    * [Metadata](#metadata)
    
-2. [RESEARCH](#RESEARCH)
+2. [RESEARCH](#research)
    
-   i-[Molo Songololo](#Molo-Songololo)
+   i-[Molo Songololo](#molo-songololo)
    
    ii-[Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
    
-   iii-[Timeline](#Timeline) 
+   iii-[Timeline](#timeline) 
    
    iiii-[Language as Material](#Language-as-material)
   
-  3. [TRANSCODING](#Transcoding)
+  3. [TRANSCODING](#transcoding)
   
-     i-[OCR - Image to text](#Image-to-text)
+     i-[OCR - Image to text](#image-to-text)
      
-     ii-[Image to 3d](#Image-to-3d)
+     ii-[Image to 3d](#image-to-3d)
      
-     iii [Digital-Mapping: Non linear timeline](#Digital-Mapping)
+     iii [Digital-Mapping: Non linear timeline](#digital-mapping)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
