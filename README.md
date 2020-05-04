@@ -43,12 +43,12 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 
 
 
-# <a name="RESEARCH"></a> 2. RESEARCH - "How to archive human rights/ children's rights in an everchanging globalized world?"
+# <a name="research"></a> 2. RESEARCH - "How to archive human rights/ children's rights in an everchanging globalized world?"
 
 In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world, in different time periods. Therefore I gathered a variety of contents and sources regarding this topic–leading to experiments within this range.
 
 
-## <a name="Molo-Songololo"></a> 1. Molo Songololo
+## <a name="molo-songololo"></a> 1. Molo Songololo
 
 
 #### History: 
@@ -100,7 +100,7 @@ Another very interesting source from the Archive is the "Report on the first Nat
 
 
 
-## <a name="TIMELINE"></a> 3.Timeline regarding important Human-Rights-happenings around the world
+## <a name="timeline"></a> 3.Timeline regarding important Human-Rights-happenings around the world
 
 I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html). I researched for the different events in history and marked the important ones within this document: 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/20.jpg?raw=true)
