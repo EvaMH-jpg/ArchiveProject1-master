@@ -64,9 +64,7 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 
 ### More examples of the magazine: 
 [<img src="images/7.jpg" width="50%">](#)
-
 [<img src="images/8.jpg" width="50%">](#)
-
 [<img src="images/9.jpg" width="50%">](#)
 
 
@@ -75,17 +73,11 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 Another very interesting source from the Archive is the "Report on the first National Conference on children's rights" and the corresponding Discussion Papers-"Children Have Rights". 
 
 [<img src="images/10.jpg" width="50%">](#)
-
 [<img src="images/11.jpg" width="50%">](#)
-
 [<img src="images/12.jpg" width="50%">](#)
-
 [<img src="images/13.jpg" width="50%">](#)
-
 [<img src="images/21.jpg" width="50%">](#)
-
 [<img src="images/22.jpg" width="50%">](#)
-
 [<img src="images/23.jpg" width="50%">](#)
 
 
@@ -99,16 +91,12 @@ I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohch
 These documents are also part of my research. As I already meantioned I used a variety of resources in order to map out different events. It was an important part of my research to include as many different inputs regarding a certain time period or event as possible in order to understand what happened, who was involved, where it happened and why. 
 
 [<img src="images/14.jpg" width="50%">](#)
-
 [<img src="images/16.jpg" width="50%">](#)
-
 [<img src="images/17.jpg" width="50%">](#)
-
 [<img src="images/18.png" width="50%">](#)
-
 [<img src="images/15.jpg" width="50%">](#)
+[<img src="images/14.jpg" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/14.jpg?raw=true)
 
 ## <a name="Language-as-Material"></a> 4. Language as Material
 
@@ -140,7 +128,6 @@ Since I was dealing with a lot of scans as material from the archive, I had to f
 I checked different websites in order to find a way how to transcode this given scans, but they all did not work out too well.
 
 [<img src="images/24.jpg" width="50%">](#)
-
 [<img src="images/25.jpg" width="50%">](#)
 
 
@@ -175,7 +162,6 @@ Tesseract.recognize(
 
 ### Result: 
 [<img src="images/27.png" width="50%">](#)
-
 [<img src="images/28.png" width="50%">](#)
 
 
@@ -192,15 +178,12 @@ The idea was to create a non linear timeline in order to map out the events and 
 
 [The Art of mapmaking](https://www.theguardian.com/travel/gallery/2015/sep/10/cool-cartography-the-art-of-mapmaking)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/29.jpg?raw=true)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/30.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/31.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/32.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/33.jpg?raw=true)
+[<img src="images/29.jpg" width="50%">](#)
+[<img src="images/30.jpg" width="50%">](#)
+[<img src="images/31.jpg" width="50%">](#)
+[<img src="images/32.jpg" width="50%">](#)
+[<img src="images/33.jpg" width="50%">](#)
 
 Fine example of Arnold Colom's rare double hemisphere map of the World, which appeared in his *Zee-Atlas*.
 
@@ -212,12 +195,9 @@ The map provides a fine depiction of the World. California is shown as an island
 
 #### First Sketches
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/33.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/34.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/35.jpg?raw=true)
-
+[<img src="images/33.jpg" width="50%">](#)
+[<img src="images/34.jpg" width="50%">](#)
+[<img src="images/35.jpg" width="50%">](#)
 
 
 
@@ -225,10 +205,10 @@ The map provides a fine depiction of the World. California is shown as an island
 
 I worked with Cinema 4D and Unity in order to create the first visual sketches for my non linear timeline. I wanted to create different islands which you can visit–on each island you find new information regarding human rights. I started to create the game in Unity with the first Island "Molo Songololo" which you can visit. Within the process I realized that the main focus, the Artefact, loses its importance and focus if I continue to work on the idea of the non-linear timeline.
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/37.jpg?raw=true)
+[<img src="images/37.jpg" width="50%">](#)
 
 
 ### Result:
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg?raw=true)
+[<img src="images/36.jpg" width="100%">](#)
 
 
