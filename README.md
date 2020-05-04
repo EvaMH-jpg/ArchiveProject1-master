@@ -201,6 +201,20 @@ Tesseract.recognize(
 ## <a name="Digital Mapping"></a> Transcoding Nr.3: Non linear Timeline
 
 
+[The Art of mapmaking](https://www.theguardian.com/travel/gallery/2015/sep/10/cool-cartography-the-art-of-mapmaking)
 
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/29.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/30.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/31.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/32.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/33.jpg?raw=true)
+
+Fine example of Arnold Colom's rare double hemisphere map of the World, which appeared in his *Zee-Atlas*.
+
+The map provides a fine depiction of the World. California is shown as an island, with a large landmass running due east and west to the north entitled Nova Albion, one of the only maps to provide this designation to this landmass (along with the map of his father Jacob Colom, published in 1650).
 
 
