@@ -230,6 +230,8 @@ The map provides a fine depiction of the World. California is shown as an island
 
 ![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/34.jpg?raw=true)
 
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/35.jpg?raw=true)
+
 
 
 
@@ -237,6 +239,7 @@ The map provides a fine depiction of the World. California is shown as an island
 
 I used Cinema 4D in order to create the first visual sketches for my non linear timeline. I wanted to create different islands which you can visit–on each island you find new information regarding human rights. 
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/35.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg?raw=true)
 
 
