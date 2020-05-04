@@ -21,7 +21,7 @@
      
      ii-[Image to 3d](#Image-to-3d)
      
-     iii [Digital-Mapping: Non linear timeline](#Digital-Mapping:Non-linear-timeline)
+     iii [Digital-Mapping: Non linear timeline](#Digital-Mapping)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
@@ -43,9 +43,9 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 
 
 
-# <a name="RESEARCH"></a> 2. RESEARCH - "How to archive humans rights/ children's rights in an everchanging globalized world?"
+# <a name="RESEARCH"></a> 2. RESEARCH - "How to archive human rights/ children's rights in an everchanging globalized world?"
 
-In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world and in different time periods. Therefore I gathered different contents and sources regarding this topic–leading to experiments with this content.
+In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world, in different time periods. Therefore I gathered a variety of contents and sources regarding this topic–leading to experiments within this range.
 
 
 ## <a name="Molo-Songololo"></a> 1. Molo Songololo
@@ -198,7 +198,10 @@ Tesseract.recognize(
 
 
 
-## <a name="Digital Mapping"></a> Transcoding Nr.3: Non linear Timeline
+## <a name="Digital-Mapping"></a> Transcoding Nr.3: Digital-Mapping: Non linear Timeline
+
+### Description:
+The idea was to create a non linear timeline in order to map out the events and happenings regarding human rights all over the world in different times and periods. Since my focus shifted towards the artefact and during my process I figured out that it is more important to focus on the different aspects of the magazine as material, I decided for my endresult to put the idea of the non linear timeline aside. I will continue working on this in a later stage of the process. 
 
 
 [The Art of mapmaking](https://www.theguardian.com/travel/gallery/2015/sep/10/cool-cartography-the-art-of-mapmaking)
@@ -216,5 +219,28 @@ Tesseract.recognize(
 Fine example of Arnold Colom's rare double hemisphere map of the World, which appeared in his *Zee-Atlas*.
 
 The map provides a fine depiction of the World. California is shown as an island, with a large landmass running due east and west to the north entitled Nova Albion, one of the only maps to provide this designation to this landmass (along with the map of his father Jacob Colom, published in 1650).
+
+
+
+### Method:
+
+#### First Sketches
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/33.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/34.jpg?raw=true)
+
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/35.jpg?raw=true)
+
+
+
+
+### Tool: 
+
+I worked with Cinema 4D and Unity in order to create the first visual sketches for my non linear timeline. I wanted to create different islands which you can visit–on each island you find new information regarding human rights. I started to create the game in Unity with the first Island "Molo Songololo" which you can visit. Within the process I realized that the main focus, the Artefact, loses its importance and focus if I continue to work on the idea of the non-linear timeline. 
+
+
+### Result:
+![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg?raw=true)
 
 
