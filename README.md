@@ -166,6 +166,8 @@ Tesseract.recognize(
 ### Result: 
 [<img src="images/27.png" width="100%">](#)
 [<img src="images/28.png" width="100%">](#)
+[<img src="images/38.png" width="50%">](#)
+
 
 
 
