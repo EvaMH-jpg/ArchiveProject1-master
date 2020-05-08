@@ -176,11 +176,9 @@ Tesseract.recognize(
 ### Description: 
 As a next step I decided to create 3D images from certain cut outs of the magazine. 
 
- [<img src="images/frame.jpg" width="30%">](#)
+ [<img src="images/cutout.jpg" width="70%">](#)
  
-  [<img src="images/molo.jpg" width="50%">](#)
-  
-  [<img src="images/tree.jpg" width="50%">](#)
+ 
 
 
 ### Method: 
@@ -193,7 +191,7 @@ I worked with different tools here in order to transform this 2D image into a 3D
 
  [<img src="images/tree1.jpg" width="100%">](#)
  
- [<img src="images/tree2.jpg" width="100%">](#)
+ [<img src="images/tree2.jpg" width="40%">](#)
  
  [<img src="images/tree3.jpg" width="100%">](#)
 
