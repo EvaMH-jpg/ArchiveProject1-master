@@ -97,7 +97,6 @@ These documents are also part of my research. As I already meantioned I used a v
 [<img src="images/17.jpg" width="50%">](#)
 [<img src="images/18.png" width="50%">](#)
 [<img src="images/15.jpg" width="50%">](#)
-[<img src="images/14.jpg" width="50%">](#)
 
 
 ## <a name="Language-as-Material"></a> 4. Language as Material
@@ -159,6 +158,8 @@ Tesseract.recognize(
   </script>
  </body>  
 </html>
+
+[<img src="images/forreadme.png" width="50%">](#)
 
 [<img src="images/26.jpg" width="30%">](#)
 
