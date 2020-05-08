@@ -166,12 +166,36 @@ Tesseract.recognize(
 ### Result: 
 [<img src="images/27.png" width="100%">](#)
 [<img src="images/28.png" width="100%">](#)
-[<img src="images/38.png" width="50%">](#)
+
 
 
 
 
 ## <a name="Image-to-3d"></a> Transcoding Nr.2: Image to 3D
+
+### Description: 
+As a next step I decided to create 3D images from certain cut outs of the magazine. 
+
+ [<img src="images/frame.jpg" width="30%">](#)
+ 
+  [<img src="images/molo.jpg" width="50%">](#)
+  
+  [<img src="images/tree.jpg" width="50%">](#)
+
+
+### Method: 
+I started by going through the magazines and cut out a few images which represent the visual language of my artifact, in order for me to transcode them and turn them into a 3D object. 
+
+ 
+ ### Tool: 
+I worked with different tools here in order to transform this 2D image into a 3D object. First I cut out a certain part of the magazine. Then I edited it in Photoshop and placed it in Illustrator. I created a path out of the image. In order to be able to open it in Cinema 4D I had to save the file as Illustrator 8. Then I opened it in Cinema 4D–there you have the option to select all the layers and add a displacer to it. It will automatically make your 2D image into 3D. 
+
+
+ [<img src="images/tree1.jpg" width="100%">](#)
+ 
+ [<img src="images/tree2.jpg" width="100%">](#)
+ 
+ [<img src="images/tree3.jpg" width="100%">](#)
 
 
 
