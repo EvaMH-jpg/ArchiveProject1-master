@@ -159,7 +159,7 @@ Tesseract.recognize(
  </body>  
 </html>
 
-[<img src="images/forreadme" width="50%">](#)
+[<img src="images/38.png" width="50%">](#)
 
 [<img src="images/26.jpg" width="30%">](#)
 
