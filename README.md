@@ -1,27 +1,29 @@
-# README.md ARCHIVE PROJECT
+[<img src="images/1.jpg" width="100%">](#)
+
+# CROSSROADS
  
 ## Table of Contents
 
-1. [ARTEFACT](#ARTEFACT)
+1. [ARTEFACT](#artefact)
    * [Metadata](#metadata)
    
-2. [RESEARCH](#RESEARCH)
+2. [RESEARCH](#research)
    
-   i-[Molo Songololo](#Molo-Songololo)
+   i-[Molo Songololo](#molo-songololo)
    
    ii-[Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
    
-   iii-[Timeline](#Timeline) 
+   iii-[Timeline](#timeline) 
    
    iiii-[Language as Material](#Language-as-material)
   
-  3. [TRANSCODING](#Transcoding)
+  3. [TRANSCODING](#transcoding)
   
-     i-[OCR - Image to text](#Image-to-text)
+     i-[OCR - Image to text](#image-to-text)
      
-     ii-[Image to 3d](#Image-to-3d)
+     ii-[Image to 3d](#image-to-3d)
      
-     iii [Digital-Mapping: Non linear timeline](#Digital-Mapping)
+     iii [Digital-Mapping: Non linear timeline](#digital-mapping)
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
@@ -33,92 +35,68 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 **INFORMATION ARCHIVE** | MOLO SONGOLOLO
 --------------|--------------
 *IISG Call Number:* | IISG BG ZK 70324
-*physical description:* | Paper Magazine 
+*Physical description:* | Paper Magazine 
 *Type:* | Magazine
 *Medium:* | Education Tool
 *Materials:* | Paper 
-*location of origin:* | South Africa 
+*Location of origin:* | South Africa 
 *Date:* | 1980-2005
 
 
 
 
-# <a name="RESEARCH"></a> 2. RESEARCH - "How to archive human rights/ children's rights in an everchanging globalized world?"
+# <a name="research"></a> 2. RESEARCH - "How to archive human rights/ children's rights in an everchanging globalized world?"
 
 In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world, in different time periods. Therefore I gathered a variety of contents and sources regarding this topic–leading to experiments within this range.
 
 
-## <a name="Molo-Songololo"></a> 1. Molo Songololo
+## <a name="molo-songololo"></a> 1. Molo Songololo
 
 
 #### History: 
 As already mentioned above the magzine started its origin in 1980 in South Africa. It was established as a direct result of interventions by community workers during the 1979 United Nation’s International Year of the Child initiative to act against Apartheid policies and State actions against children; and to promote the rights and protection of children. Children from forced removal and migration settlements in Cape Town such as District Six, Elsies River and Crossroads were brought together to interact with each other, share experiences and learn from each other to breakdown Apartheid barriers and promote children's rights and equality. 
 
 #### 1st issue Molo Songololo: MARCH 1980
-During the 1980s Molo Songololo initiated and participated in various campaigns; such as the FREE THE CHILDREN Campaign - to free children from jail, INTERNATIONAL CHILDREN’S DAY Campaign - to promote the rights of the child, EQUAL EDUCATION Campaign - against Apartheid education; etc. Molo Songololo was seen as a CHAMPION FOR CHILDREN! 
+During the 1980s Molo Songololo initiated and participated in various campaigns; such as the FREE THE CHILDREN Campaign - to free children from jail, INTERNATIONAL CHILDREN’S DAY Campaign - to promote the rights of the child, EQUAL EDUCATION Campaign - against Apartheid education; etc. Molo Songololo was seen as a CHAMPION FOR CHILDREN!
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/2.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/3.jpg?raw=true)
-
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/4.jpg?raw=true)
-
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg?raw=true)
-
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/6.jpg?raw=true)
+ [<img src="images/1.jpg" width="50%">](#)
+ [<img src="images/2.jpg" width="50%">](#) [<img src="images/3.jpg" width="50%">](#)
+ [<img src="images/4.jpg" width="50%">](#)  [<img src="images/5.jpg" width="50%">](#)
+ [<img src="images/6.jpg" width="50%">](#)
 
 ### More examples of the magazine: 
+[<img src="images/7.jpg" width="50%">](#)
+[<img src="images/8.jpg" width="50%">](#)
+[<img src="images/9.jpg" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/7.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/8.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg?raw=true)
 
 ## <a name="Report-of-the-first-National-Conference-on-children's-rights"></a> 2. Report of the first National Conference on children's rights: 
 
 Another very interesting source from the Archive is the "Report on the first National Conference on children's rights" and the corresponding Discussion Papers-"Children Have Rights". 
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/10.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/11.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/13.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/21.jpg?raw=true)
-
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/22.jpg?raw=true)
+[<img src="images/10.jpg" width="50%">](#)
+[<img src="images/11.jpg" width="50%">](#)
+[<img src="images/12.jpg" width="50%">](#)
+[<img src="images/13.jpg" width="50%">](#)
+[<img src="images/21.jpg" width="50%">](#)
+[<img src="images/22.jpg" width="50%">](#)
+[<img src="images/23.jpg" width="50%">](#)
 
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/23.jpg?raw=true)
-
-
-
-## <a name="TIMELINE"></a> 3.Timeline regarding important Human-Rights-happenings around the world
+## <a name="timeline"></a> 3.Timeline regarding important Human-Rights-happenings around the world
 
 I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html). I researched for the different events in history and marked the important ones within this document: 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/20.jpg?raw=true)
+[<img src="images/20.jpg" width="100%">](#)
 
 ### Additional important documents
 
 These documents are also part of my research. As I already meantioned I used a variety of resources in order to map out different events. It was an important part of my research to include as many different inputs regarding a certain time period or event as possible in order to understand what happened, who was involved, where it happened and why. 
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/14.jpg?raw=true)
-
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/16.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/17.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/18.png?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg?raw=true)
+[<img src="images/14.jpg" width="50%">](#)
+[<img src="images/16.jpg" width="50%">](#)
+[<img src="images/17.jpg" width="50%">](#)
+[<img src="images/18.png" width="50%">](#)
+[<img src="images/15.jpg" width="50%">](#)
 
 
 ## <a name="Language-as-Material"></a> 4. Language as Material
@@ -148,14 +126,10 @@ My first intention with the transcodings was to have a better understanding on a
 Since I was dealing with a lot of scans as material from the archive, I had to find a way to transcode this and only have a text file left.
 
 ### Method:
-I checked different websites in order to find a way how to transcode this given scans, but they all did not work out too well. 
+I checked different websites in order to find a way how to transcode this given scans, but they all did not work out too well.
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/24.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/25.jpg?raw=true)
-
-
-
+[<img src="images/24.jpg" width="100%">](#)
+[<img src="images/25.jpg" width="100%">](#)
 
 
 ### Tool: 
@@ -185,13 +159,16 @@ Tesseract.recognize(
  </body>  
 </html>
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/26.jpg?raw=true)
+[<img src="images/38.png" width="50%">](#)
 
+[<img src="images/26.jpg" width="30%">](#)
 
 ### Result: 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/27.png?raw=true)
+[<img src="images/27.png" width="100%">](#)
+[<img src="images/28.png" width="100%">](#)
+[<img src="images/38.png" width="50%">](#)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/28.png?raw=true)
+
 
 
 ## <a name="Image-to-3d"></a> Transcoding Nr.2: Image to 3D
@@ -206,15 +183,12 @@ The idea was to create a non linear timeline in order to map out the events and 
 
 [The Art of mapmaking](https://www.theguardian.com/travel/gallery/2015/sep/10/cool-cartography-the-art-of-mapmaking)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/29.jpg?raw=true)
 
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/30.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/31.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/32.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/33.jpg?raw=true)
+[<img src="images/29.jpg" width="100%">](#)
+[<img src="images/30.jpg" width="100%">](#)
+[<img src="images/31.jpg" width="100%">](#)
+[<img src="images/32.jpg" width="100%">](#)
+[<img src="images/33.jpg" width="100%">](#)
 
 Fine example of Arnold Colom's rare double hemisphere map of the World, which appeared in his *Zee-Atlas*.
 
@@ -225,22 +199,19 @@ The map provides a fine depiction of the World. California is shown as an island
 ### Method:
 
 #### First Sketches
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/33.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/34.jpg?raw=true)
-
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/35.jpg?raw=true)
-
+[<img src="images/34.jpg" width="50%">](#)
+[<img src="images/35.jpg" width="50%">](#)
 
 
 
 ### Tool: 
 
-I worked with Cinema 4D and Unity in order to create the first visual sketches for my non linear timeline. I wanted to create different islands which you can visit–on each island you find new information regarding human rights. I started to create the game in Unity with the first Island "Molo Songololo" which you can visit. Within the process I realized that the main focus, the Artefact, loses its importance and focus if I continue to work on the idea of the non-linear timeline. 
+I worked with Cinema 4D and Unity in order to create the first visual sketches for my non linear timeline. I wanted to create different islands which you can visit–on each island you find new information regarding human rights. I started to create the game in Unity with the first Island "Molo Songololo" which you can visit. Within the process I realized that the main focus, the Artefact, loses its importance and focus if I continue to work on the idea of the non-linear timeline.
+
+[<img src="images/37.jpg" width="100%">](#)
 
 
 ### Result:
-![Image of 1st Issue of Molo Songololo Magazine](https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg?raw=true)
+[<img src="images/36.jpg" width="100%">](#)
 
 
