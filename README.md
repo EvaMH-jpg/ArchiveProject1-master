@@ -192,10 +192,10 @@ I worked with different tools here in order to transform this 2D image into a 3D
  
  [<img src="images/tree3.jpg" width="100%">](#)
  
+ 
+ 
+ ### Result: 
  [<img src="images/tree1.jpg" width="100%">](#)
- 
-
- 
  
 
 
