@@ -1,4 +1,4 @@
-[<img src="images/1.jpg" width="100%">](#)
+[<img src="images/molocutouts.jpg" width="100%">](#)
 
 # CROSSROADS
  
@@ -188,12 +188,15 @@ I started by going through the magazines and cut out a few images which represen
  ### Tool: 
 I worked with different tools here in order to transform this 2D image into a 3D object. First I cut out a certain part of the magazine. Then I edited it in Photoshop and placed it in Illustrator. I created a path out of the image. In order to be able to open it in Cinema 4D I had to save the file as Illustrator 8. Then I opened it in Cinema 4D–there you have the option to select all the layers and add a displacer to it. It will automatically make your 2D image into 3D. 
 
-
- [<img src="images/tree1.jpg" width="100%">](#)
- 
  [<img src="images/tree2.jpg" width="40%">](#)
  
  [<img src="images/tree3.jpg" width="100%">](#)
+ 
+ [<img src="images/tree1.jpg" width="100%">](#)
+ 
+
+ 
+ 
 
 
 
