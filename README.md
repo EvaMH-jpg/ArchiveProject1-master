@@ -24,6 +24,8 @@
      ii-[Image to 3d](#image-to-3d)
      
      iii [Digital-Mapping: Non linear timeline](#digital-mapping)
+     
+     3. [TRANSCODING-TOOL-UNITY](#transcodingtool) 
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
@@ -244,3 +246,6 @@ I worked with Cinema 4D and Unity in order to create the first visual sketches f
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg" width="100%">](#)
 
 
+## <a name="transcodingtool"></a> 4.Transcoding Tool - UNITY
+
+It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. 
