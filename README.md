@@ -25,6 +25,8 @@
      
      iii [Digital-Mapping: Non linear timeline](#digital-mapping)
      
+  4.[REFLECTION](#reflection)   
+     
   5. [OUTCOME](#outcome)   
      
      
@@ -247,6 +249,7 @@ I worked with Cinema 4D and Unity in order to create the first visual sketches f
 ### Result:
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg" width="100%">](#)
 
+## <a name="reflection"></a> 5.REFLECTION
 
 ## <a name="outcome"></a> 5.OUTCOME
 
