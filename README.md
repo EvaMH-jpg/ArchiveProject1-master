@@ -258,7 +258,7 @@ It was quite clear from the beginning that my transcoding tool will be Unity, bu
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game4.png" width="60%">](#)
 
-[<img src=https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game3.png" width="60%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game3.png" width="60%">](#)
  
 [<img src=https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game2.png" width="60%">](#)
  
