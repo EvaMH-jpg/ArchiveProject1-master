@@ -1,5 +1,4 @@
-[<img src="images/1.jpg" width="100%">](#)
-
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/molocutouts.jpg" width="100%">](#)
 # CROSSROADS
  
 ## Table of Contents
@@ -24,6 +23,12 @@
      ii-[Image to 3d](#image-to-3d)
      
      iii [Digital-Mapping: Non linear timeline](#digital-mapping)
+     
+  4. [REFLECTION](#reflection)   
+     
+  5. [OUTCOME](#outcome)   
+     
+     
 
 # <a name="ARTEFACT"></a> 1. ARTEFACT
 
@@ -59,28 +64,28 @@ As already mentioned above the magzine started its origin in 1980 in South Afric
 #### 1st issue Molo Songololo: MARCH 1980
 During the 1980s Molo Songololo initiated and participated in various campaigns; such as the FREE THE CHILDREN Campaign - to free children from jail, INTERNATIONAL CHILDREN’S DAY Campaign - to promote the rights of the child, EQUAL EDUCATION Campaign - against Apartheid education; etc. Molo Songololo was seen as a CHAMPION FOR CHILDREN!
 
- [<img src="images/1.jpg" width="50%">](#)
- [<img src="images/2.jpg" width="50%">](#) [<img src="images/3.jpg" width="50%">](#)
- [<img src="images/4.jpg" width="50%">](#)  [<img src="images/5.jpg" width="50%">](#)
- [<img src="images/6.jpg" width="50%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.jpg" width="50%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/2.jpg" width="50%">](#) [<img src="images/3.jpg" width="50%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/4.jpg" width="50%">](#)  [<img src="images/5.jpg" width="50%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="50%">](#)
 
 ### More examples of the magazine: 
-[<img src="images/7.jpg" width="50%">](#)
-[<img src="images/8.jpg" width="50%">](#)
-[<img src="images/9.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/7.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/8.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg" width="50%">](#)
 
 
 ## <a name="Report-of-the-first-National-Conference-on-children's-rights"></a> 2. Report of the first National Conference on children's rights: 
 
 Another very interesting source from the Archive is the "Report on the first National Conference on children's rights" and the corresponding Discussion Papers-"Children Have Rights". 
 
-[<img src="images/10.jpg" width="50%">](#)
-[<img src="images/11.jpg" width="50%">](#)
-[<img src="images/12.jpg" width="50%">](#)
-[<img src="images/13.jpg" width="50%">](#)
-[<img src="images/21.jpg" width="50%">](#)
-[<img src="images/22.jpg" width="50%">](#)
-[<img src="images/23.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/10.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/11.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/12.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/13.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/21.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/22.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/23.jpg" width="50%">](#)
 
 
 ## <a name="timeline"></a> 3.Timeline regarding important Human-Rights-happenings around the world
@@ -92,11 +97,11 @@ I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohch
 
 These documents are also part of my research. As I already meantioned I used a variety of resources in order to map out different events. It was an important part of my research to include as many different inputs regarding a certain time period or event as possible in order to understand what happened, who was involved, where it happened and why. 
 
-[<img src="images/14.jpg" width="50%">](#)
-[<img src="images/16.jpg" width="50%">](#)
-[<img src="images/17.jpg" width="50%">](#)
-[<img src="images/18.png" width="50%">](#)
-[<img src="images/15.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/14.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/16.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/17.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/18.png" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg" width="50%">](#)
 
 
 ## <a name="Language-as-Material"></a> 4. Language as Material
@@ -128,8 +133,8 @@ Since I was dealing with a lot of scans as material from the archive, I had to f
 ### Method:
 I checked different websites in order to find a way how to transcode this given scans, but they all did not work out too well.
 
-[<img src="images/24.jpg" width="100%">](#)
-[<img src="images/25.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/24.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/25.jpg" width="100%">](#)
 
 
 ### Tool: 
@@ -159,13 +164,13 @@ Tesseract.recognize(
  </body>  
 </html>
 
-[<img src="images/38.png" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/38.png" width="50%">](#)
 
-[<img src="images/26.jpg" width="30%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/26.jpg" width="30%">](#)
 
 ### Result: 
-[<img src="images/27.png" width="100%">](#)
-[<img src="images/28.png" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/27.png" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/28.png" width="100%">](#)
 
 
 
@@ -188,12 +193,19 @@ I started by going through the magazines and cut out a few images which represen
  ### Tool: 
 I worked with different tools here in order to transform this 2D image into a 3D object. First I cut out a certain part of the magazine. Then I edited it in Photoshop and placed it in Illustrator. I created a path out of the image. In order to be able to open it in Cinema 4D I had to save the file as Illustrator 8. Then I opened it in Cinema 4D–there you have the option to select all the layers and add a displacer to it. It will automatically make your 2D image into 3D. 
 
-
- [<img src="images/tree1.jpg" width="100%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/tree2.jpg" width="40%">](#)
  
- [<img src="images/tree2.jpg" width="40%">](#)
  
- [<img src="images/tree3.jpg" width="100%">](#)
+ 
+ 
+ 
+ 
+ ### Result:
+ 
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/tree3.jpg" width="100%">](#)
+ 
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/tree1.jpg" width="100%">](#)
+ 
 
 
 
@@ -206,11 +218,11 @@ The idea was to create a non linear timeline in order to map out the events and 
 [The Art of mapmaking](https://www.theguardian.com/travel/gallery/2015/sep/10/cool-cartography-the-art-of-mapmaking)
 
 
-[<img src="images/29.jpg" width="100%">](#)
-[<img src="images/30.jpg" width="100%">](#)
-[<img src="images/31.jpg" width="100%">](#)
-[<img src="images/32.jpg" width="100%">](#)
-[<img src="images/33.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/29.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/30.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/31.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/32.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/33.jpg" width="100%">](#)
 
 Fine example of Arnold Colom's rare double hemisphere map of the World, which appeared in his *Zee-Atlas*.
 
@@ -221,8 +233,8 @@ The map provides a fine depiction of the World. California is shown as an island
 ### Method:
 
 #### First Sketches
-[<img src="images/34.jpg" width="50%">](#)
-[<img src="images/35.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/34.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/35.jpg" width="50%">](#)
 
 
 
@@ -230,10 +242,14 @@ The map provides a fine depiction of the World. California is shown as an island
 
 I worked with Cinema 4D and Unity in order to create the first visual sketches for my non linear timeline. I wanted to create different islands which you can visit–on each island you find new information regarding human rights. I started to create the game in Unity with the first Island "Molo Songololo" which you can visit. Within the process I realized that the main focus, the Artefact, loses its importance and focus if I continue to work on the idea of the non-linear timeline.
 
-[<img src="images/37.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/37.jpg" width="100%">](#)
 
 
 ### Result:
-[<img src="images/36.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg" width="100%">](#)
 
+# <a name="reflection"></a> 4.REFLECTION
 
+# <a name="outcome"></a> 5.OUTCOME
+
+It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. 
