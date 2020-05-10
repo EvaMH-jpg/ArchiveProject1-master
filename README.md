@@ -25,7 +25,7 @@
      
      iii [Digital-Mapping: Non linear timeline](#digital-mapping)
      
-  4.[REFLECTION](#reflection)   
+  4. [REFLECTION](#reflection)   
      
   5. [OUTCOME](#outcome)   
      
