@@ -1,4 +1,4 @@
-[<img src="images/molocutouts.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/molocutouts.jpg" width="50%">](#)
 
 # CROSSROADS
  
