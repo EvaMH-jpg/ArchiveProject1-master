@@ -1,5 +1,4 @@
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/molocutouts.jpg" width="100%">](#)
-
 # CROSSROADS
  
 ## Table of Contents
