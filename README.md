@@ -262,19 +262,10 @@ I worked with Cinema 4D and Unity in order to create the first visual sketches f
 It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. 
 
 
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresult.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/walkingground.jpg" width="30%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresult.jpg" width="70%">](#)
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game4.png" width="60%">](#)
-
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game3.png" width="60%">](#)
-
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game2.png" width="60%">](#)
-
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game1.png" width="60%">](#)
-
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game.png" width="60%">](#)
 
 ## Terms:
 Human Rights <br>
@@ -294,5 +285,7 @@ Molo Songololo-Magazine <br>
 
 <a name="footnote-4">**[4]**</a>:UNITY, Adreden Gaming, "Transparency Capture Unity Tutorial" video 9:35, 17.03.2019, https://www.youtube.com/watch?v=8lYE8m_CZQ4
 
-<a name="footnote-5">**[5]**</a>:TESSERACT, Arjun Yonjan / Code Travel, "Tesseract.js - Getting Started - javascript OCR | NEPAL" video 2:03, 29.08.2018, https://www.youtube.com/watch?v=Zfv3y-QNIMk
+<a name="footnote-5">**[5]**</a>:UNITY, Michael Mark, "Skybox erstellen und ändern - Unity - Deutsch/German" video 12:08, 28.04.2018, https://www.youtube.com/watch?v=PfGeoWWO7XA
+
+<a name="footnote-6">**[6]**</a>:TESSERACT, Arjun Yonjan / Code Travel, "Tesseract.js - Getting Started - javascript OCR | NEPAL" video 2:03, 29.08.2018, https://www.youtube.com/watch?v=Zfv3y-QNIMk
 
