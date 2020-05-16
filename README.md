@@ -250,9 +250,9 @@ I worked with Cinema 4D and Unity in order to create the first visual sketches f
 ### Result:
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg" width="100%">](#)
 
-# <a name="reflection"></a> 4.REFLECTION
+# <a name="reflection"></a> 4. REFLECTION
 
-# <a name="outcome"></a> 5.OUTCOME
+# <a name="outcome"></a> 5. OUTCOME
 
 It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. 
 
@@ -268,4 +268,4 @@ It was quite clear from the beginning that my transcoding tool will be Unity, bu
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game.png" width="60%">](#)
 
-# <a name="Transcoding"></a> 6. BIBLIOGRAPHY
+# <a name="Bibliography"></a> 6. BIBLIOGRAPHY
