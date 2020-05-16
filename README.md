@@ -176,6 +176,10 @@ Tesseract.recognize(
 
 
 
+### Source Links
+
+[Acrobat](https://acrobat.adobe.com/) <br>
+[Tesseract](https://github.com/tesseract-ocr/tesseract) <br>
 
 
 ## <a name="Image-to-3d"></a> Transcoding Nr.2: Image to 3D
@@ -271,3 +275,5 @@ It was quite clear from the beginning that my transcoding tool will be Unity, bu
 # <a name="Bibliography"></a> 6. BIBLIOGRAPHY
 
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
+
+<a name="footnote-2">**[2]**</a>:Bozeman Science, "Wavelength." video 3:22, 3 mei 2015 , Youtube.com/watch?v=E-SPpUhzYZY. 
