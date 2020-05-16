@@ -286,6 +286,13 @@ Molo Songololo-Magazine <br>
 
 # <a name="Bibliography"></a> 6. BIBLIOGRAPHY
 
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
+<a name="footnote-1">**[1]**</a>:ImplexTutorials, "Create 3D Objects in Cinema 4D from Vector w/ Adobe Illustrator" video 7:37, 15.03.2013, https://www.youtube.com/watch?v=3mHo-fM2U2s
 
-<a name="footnote-2">**[2]**</a>:Brackeys, "FIRST PERSON MOVEMENT in Unity - FPS Controller" video 23:52, 27.10.2019, https://www.youtube.com/watch?v=_QajrabyTJc
+<a name="footnote-2">**[2]**</a>:UNITY, Brackeys, "FIRST PERSON MOVEMENT in Unity - FPS Controller" video 23:52, 27.10.2019, https://www.youtube.com/watch?v=_QajrabyTJc
+
+<a name="footnote-3">**[3]**</a>:UNITY, Brian Mayrose, "Beginner's Unity3d Tutorial: Display a .jpeg or .png as a texture or a sprite" video 3:50, 04.07.2016, https://www.youtube.com/watch?v=03L-5c382Ko
+
+<a name="footnote-4">**[4]**</a>:UNITY, Adreden Gaming, "Transparency Capture Unity Tutorial" video 9:35, 17.03.2019, https://www.youtube.com/watch?v=8lYE8m_CZQ4
+
+<a name="footnote-5">**[5]**</a>:TESSERACT, Arjun Yonjan / Code Travel, "Tesseract.js - Getting Started - javascript OCR | NEPAL" video 2:03, 29.08.2018, https://www.youtube.com/watch?v=Zfv3y-QNIMk
+
