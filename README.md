@@ -289,3 +289,5 @@ Molo Songololo-Magazine <br>
 
 <a name="footnote-6">**[6]**</a>:TESSERACT, Arjun Yonjan / Code Travel, "Tesseract.js - Getting Started - javascript OCR | NEPAL" video 2:03, 29.08.2018, https://www.youtube.com/watch?v=Zfv3y-QNIMk
 
+
+<a name="footnote-7">**[7]**</a>: thepixellab2011, "Free Magic Book Plugin: Make a 3D book in 5 seconds" video 3:56, 10.04.2012, https://www.youtube.com/watch?v=gmAcPdscLw4
