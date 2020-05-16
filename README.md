@@ -273,6 +273,14 @@ It was quite clear from the beginning that my transcoding tool will be Unity, bu
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game.png" width="60%">](#)
 
+## Terms:
+Human Rights <br>
+Children Rights <br>
+UNITY <br>
+Non linear timeline <br>
+3D <br>
+Molo Songololo-Magazine <br>
+
 # <a name="Bibliography"></a> 6. BIBLIOGRAPHY
 
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
