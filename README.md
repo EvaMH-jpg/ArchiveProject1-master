@@ -1,4 +1,4 @@
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/molocutouts.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/molocutouts%20Kopie.jpg" width="100%">](#)
 # CROSSROADS
  
 ## Table of Contents
@@ -26,7 +26,9 @@
      
   4. [REFLECTION](#reflection)   
      
-  5. [OUTCOME](#outcome)   
+  5. [OUTCOME](#outcome) 
+  
+  6. [BIBLIOGRAPHY](#bibliography)
      
      
 
@@ -174,6 +176,11 @@ Tesseract.recognize(
 
 
 
+### Source Links
+
+[Acrobat](https://acrobat.adobe.com/) <br>
+[Tesseract](https://github.com/tesseract-ocr/tesseract) <br>
+[Tesseract](https://tesseract.projectnaptha.com/) <br>
 
 
 ## <a name="Image-to-3d"></a> Transcoding Nr.2: Image to 3D
@@ -248,11 +255,14 @@ I worked with Cinema 4D and Unity in order to create the first visual sketches f
 ### Result:
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg" width="100%">](#)
 
-# <a name="reflection"></a> 4.REFLECTION
+# <a name="reflection"></a> 4. REFLECTION
 
-# <a name="outcome"></a> 5.OUTCOME
+# <a name="outcome"></a> 5. OUTCOME
 
 It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. 
+
+
+[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/walkingground.jpg" width="30%">](#)
 
@@ -265,4 +275,24 @@ It was quite clear from the beginning that my transcoding tool will be Unity, bu
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game1.png" width="60%">](#)
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game.png" width="60%">](#)
+
+## Terms:
+Human Rights <br>
+Children Rights <br>
+UNITY <br>
+Non linear timeline <br>
+3D <br>
+Molo Songololo-Magazine <br>
+
+# <a name="Bibliography"></a> 6. BIBLIOGRAPHY
+
+<a name="footnote-1">**[1]**</a>:ImplexTutorials, "Create 3D Objects in Cinema 4D from Vector w/ Adobe Illustrator" video 7:37, 15.03.2013, https://www.youtube.com/watch?v=3mHo-fM2U2s
+
+<a name="footnote-2">**[2]**</a>:UNITY, Brackeys, "FIRST PERSON MOVEMENT in Unity - FPS Controller" video 23:52, 27.10.2019, https://www.youtube.com/watch?v=_QajrabyTJc
+
+<a name="footnote-3">**[3]**</a>:UNITY, Brian Mayrose, "Beginner's Unity3d Tutorial: Display a .jpeg or .png as a texture or a sprite" video 3:50, 04.07.2016, https://www.youtube.com/watch?v=03L-5c382Ko
+
+<a name="footnote-4">**[4]**</a>:UNITY, Adreden Gaming, "Transparency Capture Unity Tutorial" video 9:35, 17.03.2019, https://www.youtube.com/watch?v=8lYE8m_CZQ4
+
+<a name="footnote-5">**[5]**</a>:TESSERACT, Arjun Yonjan / Code Travel, "Tesseract.js - Getting Started - javascript OCR | NEPAL" video 2:03, 29.08.2018, https://www.youtube.com/watch?v=Zfv3y-QNIMk
 
