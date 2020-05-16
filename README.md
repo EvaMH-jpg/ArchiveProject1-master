@@ -188,8 +188,9 @@ Tesseract.recognize(
 ### Description: 
 As a next step I decided to create 3D images from certain cut outs of the magazine. 
 
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/cutout.jpg" width="40%">](#)
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/cutouts.jpg" width="40%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/cutout.jpg" width="50%">](#)
+ 
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/cutouts.jpg" width="80%">](#)
  
  
  
