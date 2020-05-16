@@ -26,7 +26,9 @@
      
   4. [REFLECTION](#reflection)   
      
-  5. [OUTCOME](#outcome)   
+  5. [OUTCOME](#outcome) 
+  
+  6.[BIBLIOGRAPHY](#bibliography)
      
      
 
@@ -266,3 +268,4 @@ It was quite clear from the beginning that my transcoding tool will be Unity, bu
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game.png" width="60%">](#)
 
+# <a name="Transcoding"></a> 6. BIBLIOGRAPHY
