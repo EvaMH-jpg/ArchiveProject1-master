@@ -28,7 +28,7 @@
      
   5. [OUTCOME](#outcome) 
   
-  6.[BIBLIOGRAPHY](#bibliography)
+  6. [BIBLIOGRAPHY](#bibliography)
      
      
 
@@ -269,3 +269,5 @@ It was quite clear from the beginning that my transcoding tool will be Unity, bu
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game.png" width="60%">](#)
 
 # <a name="Bibliography"></a> 6. BIBLIOGRAPHY
+
+<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
