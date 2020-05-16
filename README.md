@@ -261,6 +261,9 @@ I worked with Cinema 4D and Unity in order to create the first visual sketches f
 
 It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. 
 
+
+[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/walkingground.jpg" width="30%">](#)
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/game4.png" width="60%">](#)
@@ -285,4 +288,4 @@ Molo Songololo-Magazine <br>
 
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
 
-<a name="footnote-2">**[2]**</a>:Bozeman Science, "Wavelength." video 3:22, 3 mei 2015 , Youtube.com/watch?v=E-SPpUhzYZY. 
+<a name="footnote-2">**[2]**</a>:Brackeys, "FIRST PERSON MOVEMENT in Unity - FPS Controller" video 23:52, 27.10.2019, https://www.youtube.com/watch?v=_QajrabyTJc
