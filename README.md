@@ -180,6 +180,7 @@ Tesseract.recognize(
 
 [Acrobat](https://acrobat.adobe.com/) <br>
 [Tesseract](https://github.com/tesseract-ocr/tesseract) <br>
+[Tesseract](https://tesseract.projectnaptha.com/) <br>
 
 
 ## <a name="Image-to-3d"></a> Transcoding Nr.2: Image to 3D
