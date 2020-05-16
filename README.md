@@ -242,6 +242,8 @@ The map provides a fine depiction of the World. California is shown as an island
 #### First Sketches
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/34.jpg" width="50%">](#)
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/35.jpg" width="50%">](#)
+[<img src="https://https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/islands.jpg" width="50%">](#)
+
 
 
 
@@ -256,6 +258,8 @@ I worked with Cinema 4D and Unity in order to create the first visual sketches f
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg" width="100%">](#)
 
 # <a name="reflection"></a> 4. REFLECTION
+Within the process of creating the transcodings as well as the tool (Unity game) I realized that certain things did not work out and I had the chance to reevaluate aspects of the progress and outcomes. Working with the Artefact was as interesting as challenging. It was important to understand the complexity of the material and highlight the research question within that working process in order to keep the main focus on my idea and the assignment. The experiments of cuting out content of the magazine and turning this 2d images into 3d gave me a better understanding of including them within the unity game and to create an intruiging point of view. 
+
 
 # <a name="outcome"></a> 5. OUTCOME
 
