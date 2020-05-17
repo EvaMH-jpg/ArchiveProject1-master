@@ -74,9 +74,9 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
  [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="10%">](#)
 
 ### More examples of the magazine: 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/7.jpg" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/8.jpg" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/7.jpg" width="30%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/8.jpg" width="30%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg" width="30%">](#)
 
 
 ## <a name="Report-of-the-first-National-Conference-on-children's-rights"></a> 2. Report of the first National Conference on children's rights: 
