@@ -66,15 +66,17 @@ As already mentioned above the magzine started its origin in 1980 in South Afric
 #### 1st issue Molo Songololo: MARCH 1980
 During the 1980s Molo Songololo initiated and participated in various campaigns; such as the FREE THE CHILDREN Campaign - to free children from jail, INTERNATIONAL CHILDREN’S DAY Campaign - to promote the rights of the child, EQUAL EDUCATION Campaign - against Apartheid education; etc. Molo Songololo was seen as a CHAMPION FOR CHILDREN!
 
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.jpg" width="50%">](#)
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/2.jpg" width="50%">](#) [<img src="images/3.jpg" width="50%">](#)
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/4.jpg" width="50%">](#)  [<img src="images/5.jpg" width="50%">](#)
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="50%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.jpg" width="10%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/2.jpg" width="10%">](#) 
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/3.jpg" width="10%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/4.jpg" width="10%">](#)  
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="10%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="10%">](#)
 
 ### More examples of the magazine: 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/7.jpg" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/8.jpg" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg" width="50%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/7.jpg" width="30%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/8.jpg" width="30%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg" width="30%">](#)
 
 
 ## <a name="Report-of-the-first-National-Conference-on-children's-rights"></a> 2. Report of the first National Conference on children's rights: 
@@ -93,7 +95,8 @@ Another very interesting source from the Archive is the "Report on the first Nat
 ## <a name="timeline"></a> 3.Timeline regarding important Human-Rights-happenings around the world
 
 I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html). I researched for the different events in history and marked the important ones within this document: 
-[<img src="images/20.jpg" width="100%">](#)
+
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/20.jpg" width="50%">](#)
 
 ### Additional important documents
 
@@ -188,7 +191,10 @@ Tesseract.recognize(
 ### Description: 
 As a next step I decided to create 3D images from certain cut outs of the magazine. 
 
- [<img src="images/cutout.jpg" width="70%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/cutout.jpg" width="60%">](#)
+ 
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/cutouts.jpg" width="100%">](#)
+ 
  
  
 
@@ -245,6 +251,8 @@ The map provides a fine depiction of the World. California is shown as an island
 
 
 
+
+
 ### Tool: 
 
 I worked with Cinema 4D and Unity in order to create the first visual sketches for my non linear timeline. I wanted to create different islands which you can visit–on each island you find new information regarding human rights. I started to create the game in Unity with the first Island "Molo Songololo" which you can visit. Within the process I realized that the main focus, the Artefact, loses its importance and focus if I continue to work on the idea of the non-linear timeline.
@@ -256,13 +264,15 @@ I worked with Cinema 4D and Unity in order to create the first visual sketches f
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg" width="100%">](#)
 
 # <a name="reflection"></a> 4. REFLECTION
+Within the process of creating the transcodings as well as the tool (Unity game) I realized that certain things did not work out and I had the chance to reevaluate aspects of the progress and outcomes. Working with the Artefact was as interesting as challenging. It was important to understand the complexity of the material and highlight the research question within that working process in order to keep the main focus on my idea and the assignment. The experiments of cuting out content of the magazine and turning this 2d images into 3d gave me a better understanding of including them within the unity game and to create an intruiging point of view. 
+
 
 # <a name="outcome"></a> 5. OUTCOME
 
 It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. 
 
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresult.gif" width="50%">](https://www.youtube.com/watch?v=zT_hAa3Tv0o&t=32s)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresult.gif" width="50%">](https://www.youtube.com/watch?v=rEt2sxBFu6M)
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresult.jpg" width="100%">](#)
 
