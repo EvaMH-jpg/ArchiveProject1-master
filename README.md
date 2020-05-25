@@ -54,12 +54,13 @@ As already mentioned above the magzine started its origin in 1980 in South Afric
 #### 1st issue Molo Songololo: MARCH 1980
 During the 1980s Molo Songololo initiated and participated in various campaigns; such as the FREE THE CHILDREN Campaign - to free children from jail, INTERNATIONAL CHILDREN’S DAY Campaign - to promote the rights of the child, EQUAL EDUCATION Campaign - against Apartheid education; etc. Molo Songololo was seen as a CHAMPION FOR CHILDREN!
 
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.jpg" width="30%">](#)
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/2.jpg" width="30%">](#) 
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/3.jpg" width="30%">](#)
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/4.jpg" width="30%">](#)  
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="30%">](#)
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="30%">](#)
+ 
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/2.jpg" width="20%">](#) 
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/3.jpg" width="20%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/4.jpg" width="20%">](#)  
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="20%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="20%">](#)<br>
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.jpg" width="40%">](#)
 
 ### More examples of the magazine: 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/7.jpg" width="30%">](#)
