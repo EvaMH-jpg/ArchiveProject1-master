@@ -67,7 +67,7 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg" width="30%">](#)
 
 
-## <a name="Report-of-the-first-National-Conference-on-children's-rights"></a> 2. Report of the first National Conference on children's rights: 
+## Report of the first National Conference on children's rights: 
 
 Another very interesting source from the Archive is the "Report on the first National Conference on children's rights" and the corresponding Discussion Papers-"Children Have Rights". 
 
@@ -80,7 +80,7 @@ Another very interesting source from the Archive is the "Report on the first Nat
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/23.jpg" width="50%">](#)
 
 
-## <a name="timeline"></a> 3.Timeline regarding important Human-Rights-happenings around the world
+## Timeline regarding important Human-Rights-happenings around the world
 
 I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html). I researched for the different events in history and marked the important ones within this document: 
 
@@ -97,7 +97,7 @@ These documents are also part of my research. As I already meantioned I used a v
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg" width="50%">](#)
 
 
-## <a name="Language-as-Material"></a> 4. Language as Material
+## 4. Language as Material
 
 [2](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos6014) [LANGUAGE AS MATERIAL](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos6105)
 
@@ -113,12 +113,12 @@ In most literature, writers strive to strike a balance between these two states.
 
 Two movements in the middle of the twentieth century, concrete poetry and situationism, experimented with sliding the slider all the way up at 100 percent opacity. In uncreative writing, new meaning is created by repurposing preexisting texts. In order to work with text this way, words must first be rendered opaque and material. Both movements viewed materiality as primary goals, the situationists through *détournement* and the concretists by literally treating letters as building blocks. The situationists worked in a variety of mediums, realizing their vision of the city as canvas whereas the concretists took a more traditional tact, mostly publishing books. By envisioning the page as a screen, the concretists anticipated the way we would work with language in the digital world half a century later.
 
-# <a name="Transcoding"></a> 3. TRANSCODING
+## TRANSCODING
 
 My first intention with the transcodings was to have a better understanding on all the research I collected– saying this I first thought I will work with all the collected material about human rights. During the process of narrating the material and experimentation with it I realized that I will have to narrow it down in order to understand the different aspects of my original Artefact the "Molo Songololo" Magazine. With the specific tools and trascodings I chose I am creating a frame for my project and myself in which the idea of an interactive game based on the magazine can grow. The purpose of the game is to educate and include children within their own rights. The ultimate goal is for children and young adults to understand and engage with their rights, based on the different aspects of the game. 
 
 
-## <a name="Image-to-text"></a> Transcoding Nr.1: OCR - Image to Text 
+## Transcoding Nr.1: OCR - Image to Text 
 
 ### Description:
 Since I was dealing with a lot of scans as material from the archive, I had to find a way to transcode this and only have a text file left.
@@ -174,7 +174,7 @@ Tesseract.recognize(
 [Tesseract](https://tesseract.projectnaptha.com/) <br>
 
 
-## <a name="Image-to-3d"></a> Transcoding Nr.2: Image to 3D
+## Transcoding Nr.2: Image to 3D
 
 ### Description: 
 As a next step I decided to create 3D images from certain cut outs of the magazine. 
@@ -210,7 +210,7 @@ I worked with different tools here in order to transform this 2D image into a 3D
 
 
 
-## <a name="Digital-Mapping"></a> Transcoding Nr.3: Digital-Mapping: Non linear Timeline
+## Transcoding Nr.3: Digital-Mapping: Non linear Timeline
 
 ### Description:
 The idea was to create a non linear timeline in order to map out the events and happenings regarding human rights all over the world in different times and periods. Since my focus shifted towards the artefact and during my process I figured out that it is more important to focus on the different aspects of the magazine as material, I decided for my endresult to put the idea of the non linear timeline aside. I will continue working on this in a later stage of the process. 
@@ -251,11 +251,11 @@ I worked with Cinema 4D and Unity in order to create the first visual sketches f
 ### Result:
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg" width="100%">](#)
 
-# <a name="reflection"></a> 4. REFLECTION
+## Reflection
 Within the process of creating the transcodings as well as the tool (Unity game) I realized that certain things did not work out and I had the chance to reevaluate aspects of the progress and outcomes. Working with the Artefact was as interesting as challenging. It was important to understand the complexity of the material and highlight the research question within that working process in order to keep the main focus on my idea and the assignment. The experiments of cuting out content of the magazine and turning this 2d images into 3d gave me a better understanding of including them within the unity game and to create an intruiging point of view. 
 
 
-# <a name="outcome"></a> 5. OUTCOME
+## Outcome
 
 It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. 
 
@@ -265,7 +265,7 @@ It was quite clear from the beginning that my transcoding tool will be Unity, bu
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresult.jpg" width="100%">](#)
 
 
-## Terms:
+### Terms:
 Human Rights <br>
 Children Rights <br>
 UNITY <br>
@@ -273,7 +273,7 @@ Non linear timeline <br>
 3D <br>
 Molo Songololo-Magazine <br>
 
-# <a name="Bibliography"></a> 6. BIBLIOGRAPHY
+## Bibliography
 
 <a name="footnote-1">**[1]**</a>:ImplexTutorials, "Create 3D Objects in Cinema 4D from Vector w/ Adobe Illustrator" video 7:37, 15.03.2013, https://www.youtube.com/watch?v=3mHo-fM2U2s
 
