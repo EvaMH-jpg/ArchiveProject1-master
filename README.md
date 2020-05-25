@@ -5,12 +5,12 @@
 
 1. [Artefact](#artefact)
    * [Metadata](#metadata)
-2. [RESEARCH](#research)
+2. [RESEARCH](#research)<br>
    i-[Molo Songololo](#molo-songololo)<br>
    ii-[Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)<br>
    iii-[Timeline](#timeline)<br>
    iiii-[Language as Material](#Language-as-material)<br>
- 3. [Transcoding](#transcoding)
+ 3. [Transcoding](#transcoding)<br>
     i-[OCR - Image to text](#image-to-text)<br>
     ii-[Image to 3d](#image-to-3d)<br>
     iii [Digital-Mapping: Non linear timeline](#digital-mapping)<br>
