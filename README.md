@@ -262,7 +262,7 @@ Within the process of creating the transcodings as well as the tool (Unity game)
 It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. 
 
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/gif.gif" width="60%">](https://www.youtube.com/watch?v=rEt2sxBFu6M)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/gifgif.gif" width="60%">](https://www.youtube.com/watch?v=rEt2sxBFu6M)
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresultcorrect.png" width="100%">](#)
 
