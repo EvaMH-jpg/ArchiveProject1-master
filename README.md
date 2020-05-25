@@ -6,10 +6,10 @@
 1. [Artefact](#artefact)
    * [Metadata](#metadata)
 2. [RESEARCH](#research)
-   i-[Molo Songololo](#molo-songololo)
-   ii-[Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
-   iii-[Timeline](#timeline) 
-   iiii-[Language as Material](#Language-as-material)
+   i-[Molo Songololo](#molo-songololo)<br>
+   ii-[Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)<br>
+   iii-[Timeline](#timeline)<br>
+   iiii-[Language as Material](#Language-as-material)<br>
  3. [Transcoding](#transcoding)
     i-[OCR - Image to text](#image-to-text)
     ii-[Image to 3d](#image-to-3d)
