@@ -3,36 +3,24 @@
  
 ## Table of Contents
 
-1. [ARTEFACT](#artefact)
+1. [Artefact](#artefact)
    * [Metadata](#metadata)
-   
 2. [RESEARCH](#research)
-   
    i-[Molo Songololo](#molo-songololo)
-   
    ii-[Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
-   
    iii-[Timeline](#timeline) 
-   
    iiii-[Language as Material](#Language-as-material)
-  
-  3. [TRANSCODING](#transcoding)
-  
-     i-[OCR - Image to text](#image-to-text)
-     
-     ii-[Image to 3d](#image-to-3d)
-     
-     iii [Digital-Mapping: Non linear timeline](#digital-mapping)
-     
-  4. [REFLECTION](#reflection)   
-     
-  5. [OUTCOME](#outcome) 
-  
-  6. [BIBLIOGRAPHY](#bibliography)
+ 3. [Transcoding](#transcoding)
+    i-[OCR - Image to text](#image-to-text)
+    ii-[Image to 3d](#image-to-3d)
+    iii [Digital-Mapping: Non linear timeline](#digital-mapping)
+ 4. [Reflection](#reflection)   
+ 5. [Outcome](#outcome) 
+ 6. [Bibliography](#bibliography)
      
      
 
-# <a name="ARTEFACT"></a> 1. ARTEFACT
+## Artefact"
 
 ## MOLO SONGOLOLO - A Magazine for and by children
 The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoting multi-culturalism, non-discrimination and diversity through children’s stories, drawings, poems and articles about children of the Cape. The magazine became popular amongst primary school children and teachers used it in the classroom as an alternative educational tool. For more than 20-years the Molo Songololo Magazine informed and educated children about their rights and responsibilities, current affairs, social and political developments; and created dialogue amongst children. 
