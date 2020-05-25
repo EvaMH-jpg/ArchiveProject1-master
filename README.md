@@ -264,7 +264,7 @@ It was quite clear from the beginning that my transcoding tool will be Unity, bu
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/gif.gif" width="60%">](https://www.youtube.com/watch?v=rEt2sxBFu6M)
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresult.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresultcorrect.png" width="100%">](#)
 
 
 ### Terms:
