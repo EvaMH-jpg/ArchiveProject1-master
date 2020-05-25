@@ -20,9 +20,9 @@
      
      
 
-## Artefact"
+## Artefact
 
-## MOLO SONGOLOLO - A Magazine for and by children
+### MOLO SONGOLOLO - A Magazine for and by children
 The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoting multi-culturalism, non-discrimination and diversity through children’s stories, drawings, poems and articles about children of the Cape. The magazine became popular amongst primary school children and teachers used it in the classroom as an alternative educational tool. For more than 20-years the Molo Songololo Magazine informed and educated children about their rights and responsibilities, current affairs, social and political developments; and created dialogue amongst children. 
 
 ### METADATA
