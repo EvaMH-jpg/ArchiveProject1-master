@@ -97,7 +97,7 @@ These documents are also part of my research. As I already meantioned I used a v
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg" width="50%">](#)
 
 
-## 4. Language as Material
+## Language as Material
 
 [2](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos6014) [LANGUAGE AS MATERIAL](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos6105)
 
