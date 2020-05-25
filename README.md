@@ -11,12 +11,12 @@
    iii-[Timeline](#timeline)<br>
    iiii-[Language as Material](#Language-as-material)<br>
  3. [Transcoding](#transcoding)
-    i-[OCR - Image to text](#image-to-text)
-    ii-[Image to 3d](#image-to-3d)
-    iii [Digital-Mapping: Non linear timeline](#digital-mapping)
- 4. [Reflection](#reflection)   
- 5. [Outcome](#outcome) 
- 6. [Bibliography](#bibliography)
+    i-[OCR - Image to text](#image-to-text)<br>
+    ii-[Image to 3d](#image-to-3d)<br>
+    iii [Digital-Mapping: Non linear timeline](#digital-mapping)<br>
+ 4. [Reflection](#reflection) <br>  
+ 5. [Outcome](#outcome) <br>
+ 6. [Bibliography](#bibliography)<br>
      
      
 
