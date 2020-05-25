@@ -76,9 +76,9 @@ Another very interesting source from the Archive is the "Report on the first Nat
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/11.jpg" width="30%">](#)
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/12.jpg" width="30%">](#)
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/13.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/21.jpg" width="30%">](#)
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/22.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/23.jpg" width="30%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/23.jpg" width="30%">](#)<br>
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/10.jpg" width="30%">](#)
 
 
 ## Timeline regarding important Human-Rights-happenings around the world
