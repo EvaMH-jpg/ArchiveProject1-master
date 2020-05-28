@@ -222,7 +222,7 @@ The map provides a fine depiction of the World. California is shown as an island
 ### Method:
 
 #### First Sketches
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.8.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.8.jpg" width="60%">](#)
 
 
 
