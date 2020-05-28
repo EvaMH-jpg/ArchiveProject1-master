@@ -103,7 +103,7 @@ These documents are also part of my research. As I already meantioned I used a v
 
 [2](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos6014) [LANGUAGE AS MATERIAL](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos6105)
 
-Portions of “Language as Material” appeared in New Media Poetics (Cambridge: MIT, 2006) and was first written for the New Media Poetry Conference in October 2002 at the University of Iowa. Other parts of the chapter were given at Digital Poetics at SUNY Buffalo in 2000.
+"Portions of “Language as Material” appeared in New Media Poetics (Cambridge: MIT, 2006) and was first written for the New Media Poetry Conference in October 2002 at the University of Iowa. Other parts of the chapter were given at Digital Poetics at SUNY Buffalo in 2000.
 
 There’s been a lot of talk the past few years about net neutrality, a concept that argues either for or against assigning different values to the various types of data that flow through our networks. Net neutrality advocates claim that all data on the network be treated as equal, whether it be a piece of spam or a Nobel laureate’s speech. Their advocacy reminds me of the post office, which charges by the pound, not by what’s inside the package: you can’t charge more to send a couture dress than you can for a book of poetry just because it’s more valuable.
 
@@ -113,7 +113,11 @@ Right now I am writing transparently: how I’m using words is supposed to be in
 
 In most literature, writers strive to strike a balance between these two states. A way to think of this is similar to the way the transparency slider bar in Photoshop functions: slide the bar far to the right and your image is 100 percent opaque; all the way to the left renders it barely visible, a ghost of its former self. In literature, if the slider is skewed toward complete transparency, language becomes functional discourse, the sort of language used to write a newspaper editorial or caption a photograph. Slide it back a little bit and it becomes prose: *Lo-lee-ta: the tip of the tongue taking a trip of three steps down the palate to tap, at three, on the teeth. Lo. Lee. Ta*. Nabokov’s opening hits a perfect note between sound and sense, signal and noise, poetry and narrative. After this dynamic opener, Nabokov moves the slider back toward sense, swapping it for a more transparent style in order to tell a story.
 
-Two movements in the middle of the twentieth century, concrete poetry and situationism, experimented with sliding the slider all the way up at 100 percent opacity. In uncreative writing, new meaning is created by repurposing preexisting texts. In order to work with text this way, words must first be rendered opaque and material. Both movements viewed materiality as primary goals, the situationists through *détournement* and the concretists by literally treating letters as building blocks. The situationists worked in a variety of mediums, realizing their vision of the city as canvas whereas the concretists took a more traditional tact, mostly publishing books. By envisioning the page as a screen, the concretists anticipated the way we would work with language in the digital world half a century later.
+Two movements in the middle of the twentieth century, concrete poetry and situationism, experimented with sliding the slider all the way up at 100 percent opacity. In uncreative writing, new meaning is created by repurposing preexisting texts. In order to work with text this way, words must first be rendered opaque and material. Both movements viewed materiality as primary goals, the situationists through *détournement* and the concretists by literally treating letters as building blocks. The situationists worked in a variety of mediums, realizing their vision of the city as canvas whereas the concretists took a more traditional tact, mostly publishing books. By envisioning the page as a screen, the concretists anticipated the way we would work with language in the digital world half a century later."
+
+<a name="footnote-1">**[1]**</a>: Portions of “Language as Material” appeared in New Media Poetics (Cambridge: MIT, 2006) and was first written for the New Media Poetry Conference in October 2002 at the University of Iowa. Other parts of the chapter were given at Digital Poetics at SUNY Buffalo in 2000, https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos6105
+
+
 
 ## TRANSCODING
 
@@ -259,10 +263,12 @@ Within the process of creating the transcodings as well as the tool (Unity game)
 
 ## Outcome
 
-It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. 
+It was quite clear from the beginning that my transcoding tool will be Unity, but the process to get to an endresult was quite long. As I already mentioned I started off by developing the idea of an non-linear timeline mapping out human events around the world in different times. During my visual developing process I realized that this is not the right way to go, especially considering that my artefact is a Magazine by children-for children. I changed the narrative of my game and developed a interactive field which applies the same visual language as the magazine, to my game. <br> 
+THE GAME: https://username1e.itch.io/crossroads <br>
+DOCUMENTATION VIDEO: https://www.youtube.com/watch?v=RUHsQjwWbBk&feature=youtu.be
 
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/gif.gif" width="60%">](https://www.youtube.com/watch?v=rEt2sxBFu6M)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/gifgif.gif" width="60%">](https://www.youtube.com/watch?v=RUHsQjwWbBk&feature=youtu.be)
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresultcorrect.png" width="100%">](#)
 
@@ -277,17 +283,17 @@ Molo Songololo-Magazine <br>
 
 ## Bibliography
 
-<a name="footnote-1">**[1]**</a>:ImplexTutorials, "Create 3D Objects in Cinema 4D from Vector w/ Adobe Illustrator" video 7:37, 15.03.2013, https://www.youtube.com/watch?v=3mHo-fM2U2s
+<a name="footnote-2">**[2]**</a>:ImplexTutorials, "Create 3D Objects in Cinema 4D from Vector w/ Adobe Illustrator" video 7:37, 15.03.2013, https://www.youtube.com/watch?v=3mHo-fM2U2s
 
-<a name="footnote-2">**[2]**</a>:UNITY, Brackeys, "FIRST PERSON MOVEMENT in Unity - FPS Controller" video 23:52, 27.10.2019, https://www.youtube.com/watch?v=_QajrabyTJc
+<a name="footnote-3">**[3]**</a>:UNITY, Brackeys, "FIRST PERSON MOVEMENT in Unity - FPS Controller" video 23:52, 27.10.2019, https://www.youtube.com/watch?v=_QajrabyTJc
 
-<a name="footnote-3">**[3]**</a>:UNITY, Brian Mayrose, "Beginner's Unity3d Tutorial: Display a .jpeg or .png as a texture or a sprite" video 3:50, 04.07.2016, https://www.youtube.com/watch?v=03L-5c382Ko
+<a name="footnote-4">**[4]**</a>:UNITY, Brian Mayrose, "Beginner's Unity3d Tutorial: Display a .jpeg or .png as a texture or a sprite" video 3:50, 04.07.2016, https://www.youtube.com/watch?v=03L-5c382Ko
 
-<a name="footnote-4">**[4]**</a>:UNITY, Adreden Gaming, "Transparency Capture Unity Tutorial" video 9:35, 17.03.2019, https://www.youtube.com/watch?v=8lYE8m_CZQ4
+<a name="footnote-5">**[5]**</a>:UNITY, Adreden Gaming, "Transparency Capture Unity Tutorial" video 9:35, 17.03.2019, https://www.youtube.com/watch?v=8lYE8m_CZQ4
 
-<a name="footnote-5">**[5]**</a>:UNITY, Michael Mark, "Skybox erstellen und ändern - Unity - Deutsch/German" video 12:08, 28.04.2018, https://www.youtube.com/watch?v=PfGeoWWO7XA
+<a name="footnote-6">**[6]**</a>:UNITY, Michael Mark, "Skybox erstellen und ändern - Unity - Deutsch/German" video 12:08, 28.04.2018, https://www.youtube.com/watch?v=PfGeoWWO7XA
 
-<a name="footnote-6">**[6]**</a>:TESSERACT, Arjun Yonjan / Code Travel, "Tesseract.js - Getting Started - javascript OCR | NEPAL" video 2:03, 29.08.2018, https://www.youtube.com/watch?v=Zfv3y-QNIMk
+<a name="footnote-7">**[7]**</a>:TESSERACT, Arjun Yonjan / Code Travel, "Tesseract.js - Getting Started - javascript OCR | NEPAL" video 2:03, 29.08.2018, https://www.youtube.com/watch?v=Zfv3y-QNIMk
 
 
-<a name="footnote-7">**[7]**</a>: thepixellab2011, "Free Magic Book Plugin: Make a 3D book in 5 seconds" video 3:56, 10.04.2012, https://www.youtube.com/watch?v=gmAcPdscLw4
+<a name="footnote-8">**[8]**</a>: thepixellab2011, "Free Magic Book Plugin: Make a 3D book in 5 seconds" video 3:56, 10.04.2012, https://www.youtube.com/watch?v=gmAcPdscLw4
