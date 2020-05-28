@@ -268,7 +268,7 @@ THE GAME: https://username1e.itch.io/crossroads <br>
 DOCUMENTATION VIDEO: https://www.youtube.com/watch?v=RUHsQjwWbBk&feature=youtu.be
 
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/gifgif.gif" width="60%">](https://www.youtube.com/watch?v=rEt2sxBFu6M)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/gifgif.gif" width="60%">](https://www.youtube.com/watch?v=RUHsQjwWbBk&feature=youtu.be)
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresultcorrect.png" width="100%">](#)
 
