@@ -83,8 +83,8 @@ I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohch
 These documents are also part of my research. As I already meantioned I used a variety of resources in order to map out different events. It was an important part of my research to include as many different inputs regarding a certain time period or event as possible in order to understand what happened, who was involved, where it happened and why. 
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.4.jpg" width="100%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.5.jpg" width="100%">](#)
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.6.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.5.jpg" width="45%">](#)
 
 ## Language as Material
 
