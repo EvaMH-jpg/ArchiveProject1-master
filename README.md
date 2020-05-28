@@ -84,7 +84,6 @@ These documents are also part of my research. As I already meantioned I used a v
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.3.jpg" width="100%">](#)
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.4.jpg" width="100%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.6.jpg" width="100%">](#)
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.5.jpg" width="45%">](#)
 
 ## Language as Material
@@ -212,12 +211,7 @@ The idea was to create a non linear timeline in order to map out the events and 
 
 [The Art of mapmaking](https://www.theguardian.com/travel/gallery/2015/sep/10/cool-cartography-the-art-of-mapmaking)
 
-
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/29.jpg" width="100%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/30.jpg" width="100%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/31.jpg" width="100%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/32.jpg" width="100%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/33.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.6.jpg" width="100%">](#)
 
 Fine example of Arnold Colom's rare double hemisphere map of the World, which appeared in his *Zee-Atlas*.
 
