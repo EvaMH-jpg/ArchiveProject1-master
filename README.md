@@ -68,12 +68,8 @@ Another very interesting source from the Archive is the "Report on the first Nat
 
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.2.jpg" width="100%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/12.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/13.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/22.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/23.jpg" width="30%">](#)<br>
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/10.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/21.jpg" width="30%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.7.jpg" width="100%">](#)
+
 
 
 ## Timeline regarding important Human-Rights-happenings around the world
@@ -86,12 +82,9 @@ I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohch
 
 These documents are also part of my research. As I already meantioned I used a variety of resources in order to map out different events. It was an important part of my research to include as many different inputs regarding a certain time period or event as possible in order to understand what happened, who was involved, where it happened and why. 
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/14.jpg" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/16.jpg" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/17.jpg" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/18.png" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg" width="50%">](#)
-
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.4.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.5.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.6.jpg" width="100%">](#)
 
 ## Language as Material
 
