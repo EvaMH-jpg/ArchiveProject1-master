@@ -115,7 +115,7 @@ In most literature, writers strive to strike a balance between these two states.
 
 Two movements in the middle of the twentieth century, concrete poetry and situationism, experimented with sliding the slider all the way up at 100 percent opacity. In uncreative writing, new meaning is created by repurposing preexisting texts. In order to work with text this way, words must first be rendered opaque and material. Both movements viewed materiality as primary goals, the situationists through *détournement* and the concretists by literally treating letters as building blocks. The situationists worked in a variety of mediums, realizing their vision of the city as canvas whereas the concretists took a more traditional tact, mostly publishing books. By envisioning the page as a screen, the concretists anticipated the way we would work with language in the digital world half a century later."
 
-<a name="footnote-1">**[1]**</a>: Portions of “Language as Material” appeared in New Media Poetics (Cambridge: MIT, 2006) and was first written for the New Media Poetry Conference in October 2002 at the University of Iowa. Other parts of the chapter were given at Digital Poetics at SUNY Buffalo in 2000.
+<a name="footnote-1">**[1]**</a>: Portions of “Language as Material” appeared in New Media Poetics (Cambridge: MIT, 2006) and was first written for the New Media Poetry Conference in October 2002 at the University of Iowa. Other parts of the chapter were given at Digital Poetics at SUNY Buffalo in 2000, https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos6105
 
 
 
