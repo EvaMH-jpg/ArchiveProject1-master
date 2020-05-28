@@ -115,6 +115,8 @@ In most literature, writers strive to strike a balance between these two states.
 
 Two movements in the middle of the twentieth century, concrete poetry and situationism, experimented with sliding the slider all the way up at 100 percent opacity. In uncreative writing, new meaning is created by repurposing preexisting texts. In order to work with text this way, words must first be rendered opaque and material. Both movements viewed materiality as primary goals, the situationists through *détournement* and the concretists by literally treating letters as building blocks. The situationists worked in a variety of mediums, realizing their vision of the city as canvas whereas the concretists took a more traditional tact, mostly publishing books. By envisioning the page as a screen, the concretists anticipated the way we would work with language in the digital world half a century later."
 
+<a name="footnote-1">**[1]**</a>: Portions of “Language as Material” appeared in New Media Poetics (Cambridge: MIT, 2006) and was first written for the New Media Poetry Conference in October 2002 at the University of Iowa. Other parts of the chapter were given at Digital Poetics at SUNY Buffalo in 2000.
+
 
 
 ## TRANSCODING
@@ -279,17 +281,17 @@ Molo Songololo-Magazine <br>
 
 ## Bibliography
 
-<a name="footnote-1">**[1]**</a>:ImplexTutorials, "Create 3D Objects in Cinema 4D from Vector w/ Adobe Illustrator" video 7:37, 15.03.2013, https://www.youtube.com/watch?v=3mHo-fM2U2s
+<a name="footnote-2">**[2]**</a>:ImplexTutorials, "Create 3D Objects in Cinema 4D from Vector w/ Adobe Illustrator" video 7:37, 15.03.2013, https://www.youtube.com/watch?v=3mHo-fM2U2s
 
-<a name="footnote-2">**[2]**</a>:UNITY, Brackeys, "FIRST PERSON MOVEMENT in Unity - FPS Controller" video 23:52, 27.10.2019, https://www.youtube.com/watch?v=_QajrabyTJc
+<a name="footnote-3">**[3]**</a>:UNITY, Brackeys, "FIRST PERSON MOVEMENT in Unity - FPS Controller" video 23:52, 27.10.2019, https://www.youtube.com/watch?v=_QajrabyTJc
 
-<a name="footnote-3">**[3]**</a>:UNITY, Brian Mayrose, "Beginner's Unity3d Tutorial: Display a .jpeg or .png as a texture or a sprite" video 3:50, 04.07.2016, https://www.youtube.com/watch?v=03L-5c382Ko
+<a name="footnote-4">**[4]**</a>:UNITY, Brian Mayrose, "Beginner's Unity3d Tutorial: Display a .jpeg or .png as a texture or a sprite" video 3:50, 04.07.2016, https://www.youtube.com/watch?v=03L-5c382Ko
 
-<a name="footnote-4">**[4]**</a>:UNITY, Adreden Gaming, "Transparency Capture Unity Tutorial" video 9:35, 17.03.2019, https://www.youtube.com/watch?v=8lYE8m_CZQ4
+<a name="footnote-5">**[5]**</a>:UNITY, Adreden Gaming, "Transparency Capture Unity Tutorial" video 9:35, 17.03.2019, https://www.youtube.com/watch?v=8lYE8m_CZQ4
 
-<a name="footnote-5">**[5]**</a>:UNITY, Michael Mark, "Skybox erstellen und ändern - Unity - Deutsch/German" video 12:08, 28.04.2018, https://www.youtube.com/watch?v=PfGeoWWO7XA
+<a name="footnote-6">**[6]**</a>:UNITY, Michael Mark, "Skybox erstellen und ändern - Unity - Deutsch/German" video 12:08, 28.04.2018, https://www.youtube.com/watch?v=PfGeoWWO7XA
 
-<a name="footnote-6">**[6]**</a>:TESSERACT, Arjun Yonjan / Code Travel, "Tesseract.js - Getting Started - javascript OCR | NEPAL" video 2:03, 29.08.2018, https://www.youtube.com/watch?v=Zfv3y-QNIMk
+<a name="footnote-7">**[7]**</a>:TESSERACT, Arjun Yonjan / Code Travel, "Tesseract.js - Getting Started - javascript OCR | NEPAL" video 2:03, 29.08.2018, https://www.youtube.com/watch?v=Zfv3y-QNIMk
 
 
-<a name="footnote-7">**[7]**</a>: thepixellab2011, "Free Magic Book Plugin: Make a 3D book in 5 seconds" video 3:56, 10.04.2012, https://www.youtube.com/watch?v=gmAcPdscLw4
+<a name="footnote-8">**[8]**</a>: thepixellab2011, "Free Magic Book Plugin: Make a 3D book in 5 seconds" video 3:56, 10.04.2012, https://www.youtube.com/watch?v=gmAcPdscLw4
