@@ -55,17 +55,11 @@ As already mentioned above the magzine started its origin in 1980 in South Afric
 During the 1980s Molo Songololo initiated and participated in various campaigns; such as the FREE THE CHILDREN Campaign - to free children from jail, INTERNATIONAL CHILDREN’S DAY Campaign - to promote the rights of the child, EQUAL EDUCATION Campaign - against Apartheid education; etc. Molo Songololo was seen as a CHAMPION FOR CHILDREN!
 
  
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/2.jpg" width="20%">](#) 
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/3.jpg" width="20%">](#)
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/4.jpg" width="20%">](#)  
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="20%">](#)
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/5.jpg" width="20%">](#)<br>
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.jpg" width="40%">](#)
+ [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1%20Kopie.jpg" width="100%">](#) 
+
 
 ### More examples of the magazine: 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/7.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/8.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/9.jpg" width="30%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.1.jpg" width="100%">](#)
 
 
 ## Report of the first National Conference on children's rights: 
@@ -73,13 +67,9 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 Another very interesting source from the Archive is the "Report on the first National Conference on children's rights" and the corresponding Discussion Papers-"Children Have Rights". 
 
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/11.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/12.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/13.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/22.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/23.jpg" width="30%">](#)<br>
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/10.jpg" width="30%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/21.jpg" width="30%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.2.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.7.jpg" width="100%">](#)
+
 
 
 ## Timeline regarding important Human-Rights-happenings around the world
@@ -92,12 +82,10 @@ I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohch
 
 These documents are also part of my research. As I already meantioned I used a variety of resources in order to map out different events. It was an important part of my research to include as many different inputs regarding a certain time period or event as possible in order to understand what happened, who was involved, where it happened and why. 
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/14.jpg" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/16.jpg" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/17.jpg" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/18.png" width="50%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/15.jpg" width="50%">](#)
-
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.3.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.4.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.6.jpg" width="100%">](#)
+[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.5.jpg" width="45%">](#)
 
 ## Language as Material
 
