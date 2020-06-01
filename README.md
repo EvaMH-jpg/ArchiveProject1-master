@@ -4,19 +4,19 @@
 ## Table of Contents
 
 1. [Artefact](#artefact)
-   * [Metadata](#metadata)
-2. [RESEARCH](#research)<br>
-   i-[Molo Songololo](#molo-songololo)<br>
-   ii-[Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)<br>
-   iii-[Timeline](#timeline)<br>
-   iiii-[Language as Material](#Language-as-material)<br>
- 3. [Transcoding](#transcoding)<br>
-    i-[OCR - Image to text](#image-to-text)<br>
-    ii-[Image to 3d](#image-to-3d)<br>
-    iii [Digital-Mapping: Non linear timeline](#digital-mapping)<br>
- 4. [Reflection](#reflection) <br>  
- 5. [Outcome](#outcome) <br>
- 6. [Bibliography](#bibliography)<br>
+    - [Metadata](#metadata)
+2. [RESEARCH](#research)
+    - [Molo Songololo](#molo-songololo)
+    - [Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
+    - [Timeline](#timeline)
+    - [Language as Material](#Language-as-material)
+3. [Transcoding](#transcoding)
+    - [OCR - Image to text](#image-to-text)
+    - [Image to 3d](#image-to-3d)
+    - [Digital-Mapping: Non linear timeline](#digital-mapping)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Bibliography](#bibliography)
      
      
 
