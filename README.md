@@ -11,7 +11,7 @@
     - [Timeline](#timeline)
     - [Language as Material](#Language-as-material)
 3. [Transcoding](#transcoding)
-    - [OCR-Image to text](#image-to-text)
+    - [OCR-Image to text](#OCR-image-to-text)
     - [Image to 3d](#image-to-3d)
     - [Digital-Mapping: Non linear timeline](#digital-mapping)
 4. [Reflection](#reflection)
