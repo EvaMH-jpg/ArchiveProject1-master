@@ -7,7 +7,7 @@
     - [Metadata](#metadata)
 2. [Research](#research)
     - [Molo Songololo](#molo-songololo)
-    - [Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
+    - [Report of the first National Conference on children's rights](#Report of the first National Conference on children's rights)
     - [Timeline](#timeline)
     - [Language as Material](#Language-as-material)
 3. [Transcoding](#transcoding)
