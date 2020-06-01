@@ -5,7 +5,7 @@
 
 1. [Artefact](#artefact)
     - [Metadata](#metadata)
-2. [RESEARCH](#research)
+2. [Research](#research)
     - [Molo Songololo](#molo-songololo)
     - [Report of the first National Conference on children's rights](#Report-of-the-first-National-Conference-on-children's-rights)
     - [Timeline](#timeline)
