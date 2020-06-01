@@ -13,7 +13,7 @@
 3. [Transcoding](#transcoding)
     - [OCR-Image to text](#OCR-image-to-text)
     - [Image to 3d](#image-to-3d)
-    - [Digital-Mapping: Non linear timeline](#digital-mapping:non-linear-timeline)
+    - [Digital-Mapping: Non linear timeline](#digital-mapping non-linear-timeline)
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
 6. [Bibliography](#bibliography)
