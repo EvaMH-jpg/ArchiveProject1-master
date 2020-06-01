@@ -40,7 +40,9 @@ The first edition of the iconic Molo Songololo Magazine appeared in 1980 promoti
 
 
 
-## Research - "How to archive human rights/ children's rights in an everchanging globalized world?"
+## Research
+
+"How to archive human rights/ children's rights in an everchanging globalized world?"
 
 In my research I included more sources than only the Molo Songololo Magazine. I am very interested in human rights in general and different happenings regarding this topic around the world, in different time periods. Therefore I gathered a variety of contents and sources regarding this topic–leading to experiments within this range.
 
