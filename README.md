@@ -205,7 +205,7 @@ I worked with different tools here in order to transform this 2D image into a 3D
 
 
 
-## Digital-Mapping: Non linear Timeline
+## Digital-Mapping
 
 ### Description:
 The idea was to create a non linear timeline in order to map out the events and happenings regarding human rights all over the world in different times and periods. Since my focus shifted towards the artefact and during my process I figured out that it is more important to focus on the different aspects of the magazine as material, I decided for my endresult to put the idea of the non linear timeline aside. I will continue working on this in a later stage of the process. 
