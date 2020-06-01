@@ -64,7 +64,7 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.1.jpg" width="100%">](#)
 
 
-## Report of the first National Conference on children's rights: 
+## Report of the first National Conference on children's rights 
 
 Another very interesting source from the Archive is the "Report on the first National Conference on children's rights" and the corresponding Discussion Papers-"Children Have Rights". 
 
