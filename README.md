@@ -57,11 +57,11 @@ As already mentioned above the magzine started its origin in 1980 in South Afric
 During the 1980s Molo Songololo initiated and participated in various campaigns; such as the FREE THE CHILDREN Campaign - to free children from jail, INTERNATIONAL CHILDREN’S DAY Campaign - to promote the rights of the child, EQUAL EDUCATION Campaign - against Apartheid education; etc. Molo Songololo was seen as a CHAMPION FOR CHILDREN!
 
  
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1%20Kopie.jpg" width="100%">] 
+ <img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1%20Kopie.jpg" width="100%"> 
 
 
 ### More examples of the magazine: 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.1.jpg" width="100%">]
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.1.jpg" width="100%">
 
 
 ## Report of the first National Conference on children's rights 
