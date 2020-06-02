@@ -69,23 +69,23 @@ During the 1980s Molo Songololo initiated and participated in various campaigns;
 Another very interesting source from the Archive is the "Report on the first National Conference on children's rights" and the corresponding Discussion Papers-"Children Have Rights". 
 
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.2.jpg" width="100%">]
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.7.jpg" width="100%">]
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.2.jpg" width="100%">
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.7.jpg" width="100%">
 
 
 
 ## Timeline 
 I created a Timeline in InDesign based on the [OHCHR-TIMELINE](https://at20.ohchr.org/timeline_full.html). I researched for the different events in history and marked the important ones within this document: 
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/20.jpg" width="50%">]
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/20.jpg" width="50%">
 
 ### Additional important documents
 
 These documents are also part of my research. As I already meantioned I used a variety of resources in order to map out different events. It was an important part of my research to include as many different inputs regarding a certain time period or event as possible in order to understand what happened, who was involved, where it happened and why. 
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.3.jpg" width="100%">]
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.4.jpg" width="100%">]
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.5.jpg" width="45%">]
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.3.jpg" width="100%">
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.4.jpg" width="100%">
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.5.jpg" width="45%">
 
 ## Language as Material
 
@@ -120,8 +120,8 @@ Since I was dealing with a lot of scans as material from the archive, I had to f
 ### Method:
 I checked different websites in order to find a way how to transcode this given scans, but they all did not work out too well.
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/24.jpg" width="100%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/25.jpg" width="100%">](#)
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/24.jpg" width="100%">
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/25.jpg" width="100%">
 
 
 ### Tool: 
@@ -151,13 +151,13 @@ Tesseract.recognize(
  </body>  
 </html>
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/38.png" width="50%">](#)
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/38.png" width="50%">
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/26.jpg" width="30%">](#)
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/26.jpg" width="30%">
 
 ### Result: 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/27.png" width="100%">](#)
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/28.png" width="100%">](#)
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/27.png" width="100%">
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/28.png" width="100%">
 
 
 
@@ -173,9 +173,9 @@ Tesseract.recognize(
 ### Description: 
 As a next step I decided to create 3D images from certain cut outs of the magazine. 
 
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/cutout.jpg" width="60%">](#)
+ <img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/cutout.jpg" width="60%">
  
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/cutouts.jpg" width="100%">](#)
+ <img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/cutouts.jpg" width="100%">
  
  
  
@@ -188,7 +188,7 @@ I started by going through the magazines and cut out a few images which represen
  ### Tool: 
 I worked with different tools here in order to transform this 2D image into a 3D object. First I cut out a certain part of the magazine. Then I edited it in Photoshop and placed it in Illustrator. I created a path out of the image. In order to be able to open it in Cinema 4D I had to save the file as Illustrator 8. Then I opened it in Cinema 4D–there you have the option to select all the layers and add a displacer to it. It will automatically make your 2D image into 3D. 
 
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/tree2.jpg" width="40%">](#)
+ <img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/tree2.jpg" width="40%">
  
  
  
@@ -197,9 +197,9 @@ I worked with different tools here in order to transform this 2D image into a 3D
  
  ### Result:
  
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/tree3.jpg" width="100%">](#)
+ <img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/tree3.jpg" width="100%">
  
- [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/tree1.jpg" width="100%">](#)
+ <img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/tree1.jpg" width="100%">
  
 
 
@@ -212,7 +212,7 @@ The idea was to create a non linear timeline in order to map out the events and 
 
 [The Art of mapmaking](https://www.theguardian.com/travel/gallery/2015/sep/10/cool-cartography-the-art-of-mapmaking)
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.6.jpg" width="100%">](#)
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.6.jpg" width="100%">
 
 Fine example of Arnold Colom's rare double hemisphere map of the World, which appeared in his *Zee-Atlas*.
 
@@ -223,7 +223,7 @@ The map provides a fine depiction of the World. California is shown as an island
 ### Method:
 
 #### First Sketches
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.8.jpg" width="60%">](#)
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/1.8.jpg" width="60%">
 
 
 
@@ -232,11 +232,11 @@ The map provides a fine depiction of the World. California is shown as an island
 
 I worked with Cinema 4D and Unity in order to create the first visual sketches for my non linear timeline. I wanted to create different islands which you can visit–on each island you find new information regarding human rights. I started to create the game in Unity with the first Island "Molo Songololo" which you can visit. Within the process I realized that the main focus, the Artefact, loses its importance and focus if I continue to work on the idea of the non-linear timeline.
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/37.jpg" width="100%">](#)
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/37.jpg" width="100%">
 
 
 ### Result:
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg" width="100%">](#)
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/36.jpg" width="100%">
 
 ## Reflection
 Within the process of creating the transcodings as well as the tool (Unity game) I realized that certain things did not work out and I had the chance to reevaluate aspects of the progress and outcomes. Working with the Artefact was as interesting as challenging. It was important to understand the complexity of the material and highlight the research question within that working process in order to keep the main focus on my idea and the assignment. The experiments of cuting out content of the magazine and turning this 2d images into 3d gave me a better understanding of including them within the unity game and to create an intruiging point of view. 
@@ -251,7 +251,7 @@ DOCUMENTATION VIDEO: https://www.youtube.com/watch?v=RUHsQjwWbBk&feature=youtu.b
 
 [<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/gifgif.gif" width="60%">](https://www.youtube.com/watch?v=RUHsQjwWbBk&feature=youtu.be)
 
-[<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresultcorrect.png" width="100%">](#)
+<img src="https://github.com/EvaMH-jpg/ArchiveProject1-master/blob/master/images/endresultcorrect.png" width="100%">
 
 
 ### Terms:
